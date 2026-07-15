@@ -1,0 +1,36 @@
+email,firstname,lastname,role,full_name,site
+a.picart@e2c-grandlille.fr,Agnès,PICART,USER_COORD,PICART Agnès,Siège
+a.arnaud@e2c-grandlille.fr,Alexia,ARNAUD,USER_REF,ARNAUD Alexia,Roubaix
+a.cathelain@e2c-grandlille.fr,Amélie,CATHELAIN,USER_COORD,CATHELAIN Amélie,Siège
+a.capeau@e2c-grandlille.fr,Anne,CAPEAU,USER_REF,CAPEAU Anne,Lille
+b.roziau@e2c-grandlille.fr,Bénédicte,ROZIAU,USER_REF,ROZIAU Bénédicte,Saint Omer
+c.peau@e2c-grandlille.fr,Camille,PEAU,USER_REF,PEAU Camille,Lille
+c.lecerf@e2c-grandlille.fr,Cécile,LECERF,USER_REF,LECERF Cécile,Saint Omer
+c.lambet@e2c-grandlille.fr,Christine,LAMBET,USER_COORD,LAMBET Christine,Siège
+c.benkhalil@e2c-grandlille.fr,Coralie,BENKHALIL,USER_REF,BENKHALIL Coralie,Armentières
+d.kimpe@e2c-grandlille.fr,David,KIMPE,USER_REF,KIMPE David,Roubaix
+d.caron@e2c-grandlille.fr,Delphine,Caron,USER_REF,CARON Delphine,Saint Omer
+d.hudelle@e2c-grandlille.fr,Delphine,HUDELLE,USER_REF,HUDELLE Delphine,Saint Omer
+d.pasquier@e2c-grandlille.fr,Delphine,Pasquier,USER_REF,PASQUIER Delphine,Armentières
+e.dewitte@e2c-grandlille.fr,Eglantine,DEWITTE,USER_COORD,DEWITTE Eglantine,Siège
+e.benzarb@e2c-grandlille.fr,Ezzeddine,BEN ZARB,USER_COORD,BEN ZARB Ezzeddine,Roubaix
+f.dufour@e2c-grandlille.fr,Fanny,DUFOUR,USER_REF,DUFOUR Fanny,Lille
+f.maunoury@e2c-grandlille.fr,Franklin,MAUNOURY,USER_COORD,MAUNOURY Franklin,Lille
+g.nowinski@e2c-grandlille.fr,Gérard,NOWINSKI,USER_REF,NOWINSKI Gérard,Armentières
+g.leon-quero@e2c-grandlille.fr,German,LEON-QUERO,USER_REF,LEON-QUERO German,Lille
+g.guyo@e2c-grandlille.fr,Gwenaelle,GUYO,USER_REF,GUYO Gwenaelle,Lille
+jp.decroix@e2c-grandlille.fr,Jean-Pierre,DECROIX,USER_COORD,DECROIX Jean-Pierre,Siège
+j.degori@e2c-grandlille.fr,Jeanne,DE GORI,USER_REF,DE GORI Jeanne,Lille
+j.bolpaire@e2c-grandlille.fr,Jérôme,BOLPAIRE,USER_COORD,BOLPAIRE Jérôme,Armentières
+j.matton@e2c-grandlille.fr,Julie,MATTON,USER_COORD,MATTON Julie,Saint Omer
+l.gris@e2c-grandlille.fr,Laurence,GRIS,USER_COORD,GRIS Laurence,Lille
+l.ducarme@e2c-grandlille.fr,Loïc,DUCARME,USER_REF,DUCARME Loïc,Roubaix
+l.dercourt@e2c-grandlille.fr,Lucie,DERCOURT,USER_REF,DERCOURT Lucie,Lille
+l.millet@e2c-grandlille.fr,Lucie,MILLET,USER_COORD,MILLET Lucie,Armentières
+o.burcker@e2c-grandlille.fr,Olivier,BURCKER,USER_COORD,BURCKER Olivier,Siège
+r.colaccino@e2c-grandlille.fr,Rosetta,COLACCINO,USER_REF,COLACCINO Rosetta,Roubaix
+s.selam@e2c-grandlille.fr,Sabah,SELAM,USER_REF,SELAM Sabah,Roubaix
+s.morvan@e2c-grandlille.fr,Sarah,MORVAN,USER_REF,MORVAN Sarah,Roubaix
+s.jamil-hussain@e2c-grandlille.fr,Sura,JAMIL-HUSSAIN,USER_REF,JAMIL-HUSSAIN Sura,Lille
+t.jacob@e2c-grandlille.fr,Thibault,JACOB,USER_COORD,JACOB Thibault,Roubaix
+x.caroulle@e2c-grandlille.fr,Xavier,CAROULLE,USER_COORD,CAROULLE Xavier,Saint Omer
