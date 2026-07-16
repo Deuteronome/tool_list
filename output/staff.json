@@ -1,0 +1,282 @@
+[
+  {
+    "email":"a.picart@e2c-grandlille.fr",
+    "firstname":"Agnès",
+    "lastname":"PICART",
+    "role":"USER_COORD",
+    "full_name":"PICART Agnès",
+    "site":"Siège"
+  },
+  {
+    "email":"a.arnaud@e2c-grandlille.fr",
+    "firstname":"Alexia",
+    "lastname":"ARNAUD",
+    "role":"USER_REF",
+    "full_name":"ARNAUD Alexia",
+    "site":"Roubaix"
+  },
+  {
+    "email":"a.cathelain@e2c-grandlille.fr",
+    "firstname":"Amélie",
+    "lastname":"CATHELAIN",
+    "role":"USER_COORD",
+    "full_name":"CATHELAIN Amélie",
+    "site":"Siège"
+  },
+  {
+    "email":"a.capeau@e2c-grandlille.fr",
+    "firstname":"Anne",
+    "lastname":"CAPEAU",
+    "role":"USER_REF",
+    "full_name":"CAPEAU Anne",
+    "site":"Lille"
+  },
+  {
+    "email":"b.roziau@e2c-grandlille.fr",
+    "firstname":"Bénédicte",
+    "lastname":"ROZIAU",
+    "role":"USER_REF",
+    "full_name":"ROZIAU Bénédicte",
+    "site":"Saint Omer"
+  },
+  {
+    "email":"c.peau@e2c-grandlille.fr",
+    "firstname":"Camille",
+    "lastname":"PEAU",
+    "role":"USER_REF",
+    "full_name":"PEAU Camille",
+    "site":"Lille"
+  },
+  {
+    "email":"c.lecerf@e2c-grandlille.fr",
+    "firstname":"Cécile",
+    "lastname":"LECERF",
+    "role":"USER_REF",
+    "full_name":"LECERF Cécile",
+    "site":"Saint Omer"
+  },
+  {
+    "email":"c.lambet@e2c-grandlille.fr",
+    "firstname":"Christine",
+    "lastname":"LAMBET",
+    "role":"USER_COORD",
+    "full_name":"LAMBET Christine",
+    "site":"Siège"
+  },
+  {
+    "email":"c.benkhalil@e2c-grandlille.fr",
+    "firstname":"Coralie",
+    "lastname":"BENKHALIL",
+    "role":"USER_REF",
+    "full_name":"BENKHALIL Coralie",
+    "site":"Armentières"
+  },
+  {
+    "email":"d.kimpe@e2c-grandlille.fr",
+    "firstname":"David",
+    "lastname":"KIMPE",
+    "role":"USER_REF",
+    "full_name":"KIMPE David",
+    "site":"Roubaix"
+  },
+  {
+    "email":"d.caron@e2c-grandlille.fr",
+    "firstname":"Delphine",
+    "lastname":"Caron",
+    "role":"USER_REF",
+    "full_name":"CARON Delphine",
+    "site":"Saint Omer"
+  },
+  {
+    "email":"d.hudelle@e2c-grandlille.fr",
+    "firstname":"Delphine",
+    "lastname":"HUDELLE",
+    "role":"USER_REF",
+    "full_name":"HUDELLE Delphine",
+    "site":"Saint Omer"
+  },
+  {
+    "email":"d.pasquier@e2c-grandlille.fr",
+    "firstname":"Delphine",
+    "lastname":"Pasquier",
+    "role":"USER_REF",
+    "full_name":"PASQUIER Delphine",
+    "site":"Armentières"
+  },
+  {
+    "email":"e.dewitte@e2c-grandlille.fr",
+    "firstname":"Eglantine",
+    "lastname":"DEWITTE",
+    "role":"USER_COORD",
+    "full_name":"DEWITTE Eglantine",
+    "site":"Siège"
+  },
+  {
+    "email":"e.benzarb@e2c-grandlille.fr",
+    "firstname":"Ezzeddine",
+    "lastname":"BEN ZARB",
+    "role":"USER_COORD",
+    "full_name":"BEN ZARB Ezzeddine",
+    "site":"Roubaix"
+  },
+  {
+    "email":"f.dufour@e2c-grandlille.fr",
+    "firstname":"Fanny",
+    "lastname":"DUFOUR",
+    "role":"USER_REF",
+    "full_name":"DUFOUR Fanny",
+    "site":"Lille"
+  },
+  {
+    "email":"f.maunoury@e2c-grandlille.fr",
+    "firstname":"Franklin",
+    "lastname":"MAUNOURY",
+    "role":"USER_COORD",
+    "full_name":"MAUNOURY Franklin",
+    "site":"Lille"
+  },
+  {
+    "email":"g.nowinski@e2c-grandlille.fr",
+    "firstname":"Gérard",
+    "lastname":"NOWINSKI",
+    "role":"USER_REF",
+    "full_name":"NOWINSKI Gérard",
+    "site":"Armentières"
+  },
+  {
+    "email":"g.leon-quero@e2c-grandlille.fr",
+    "firstname":"German",
+    "lastname":"LEON-QUERO",
+    "role":"USER_REF",
+    "full_name":"LEON-QUERO German",
+    "site":"Lille"
+  },
+  {
+    "email":"g.guyo@e2c-grandlille.fr",
+    "firstname":"Gwenaelle",
+    "lastname":"GUYO",
+    "role":"USER_REF",
+    "full_name":"GUYO Gwenaelle",
+    "site":"Lille"
+  },
+  {
+    "email":"jp.decroix@e2c-grandlille.fr",
+    "firstname":"Jean-Pierre",
+    "lastname":"DECROIX",
+    "role":"USER_COORD",
+    "full_name":"DECROIX Jean-Pierre",
+    "site":"Siège"
+  },
+  {
+    "email":"j.degori@e2c-grandlille.fr",
+    "firstname":"Jeanne",
+    "lastname":"DE GORI",
+    "role":"USER_REF",
+    "full_name":"DE GORI Jeanne",
+    "site":"Lille"
+  },
+  {
+    "email":"j.bolpaire@e2c-grandlille.fr",
+    "firstname":"Jérôme",
+    "lastname":"BOLPAIRE",
+    "role":"USER_COORD",
+    "full_name":"BOLPAIRE Jérôme",
+    "site":"Armentières"
+  },
+  {
+    "email":"j.matton@e2c-grandlille.fr",
+    "firstname":"Julie",
+    "lastname":"MATTON",
+    "role":"USER_COORD",
+    "full_name":"MATTON Julie",
+    "site":"Saint Omer"
+  },
+  {
+    "email":"l.gris@e2c-grandlille.fr",
+    "firstname":"Laurence",
+    "lastname":"GRIS",
+    "role":"USER_COORD",
+    "full_name":"GRIS Laurence",
+    "site":"Lille"
+  },
+  {
+    "email":"l.ducarme@e2c-grandlille.fr",
+    "firstname":"Loïc",
+    "lastname":"DUCARME",
+    "role":"USER_REF",
+    "full_name":"DUCARME Loïc",
+    "site":"Roubaix"
+  },
+  {
+    "email":"l.dercourt@e2c-grandlille.fr",
+    "firstname":"Lucie",
+    "lastname":"DERCOURT",
+    "role":"USER_REF",
+    "full_name":"DERCOURT Lucie",
+    "site":"Lille"
+  },
+  {
+    "email":"l.millet@e2c-grandlille.fr",
+    "firstname":"Lucie",
+    "lastname":"MILLET",
+    "role":"USER_COORD",
+    "full_name":"MILLET Lucie",
+    "site":"Armentières"
+  },
+  {
+    "email":"o.burcker@e2c-grandlille.fr",
+    "firstname":"Olivier",
+    "lastname":"BURCKER",
+    "role":"USER_COORD",
+    "full_name":"BURCKER Olivier",
+    "site":"Siège"
+  },
+  {
+    "email":"r.colaccino@e2c-grandlille.fr",
+    "firstname":"Rosetta",
+    "lastname":"COLACCINO",
+    "role":"USER_REF",
+    "full_name":"COLACCINO Rosetta",
+    "site":"Roubaix"
+  },
+  {
+    "email":"s.selam@e2c-grandlille.fr",
+    "firstname":"Sabah",
+    "lastname":"SELAM",
+    "role":"USER_REF",
+    "full_name":"SELAM Sabah",
+    "site":"Roubaix"
+  },
+  {
+    "email":"s.morvan@e2c-grandlille.fr",
+    "firstname":"Sarah",
+    "lastname":"MORVAN",
+    "role":"USER_REF",
+    "full_name":"MORVAN Sarah",
+    "site":"Roubaix"
+  },
+  {
+    "email":"s.jamil-hussain@e2c-grandlille.fr",
+    "firstname":"Sura",
+    "lastname":"JAMIL-HUSSAIN",
+    "role":"USER_REF",
+    "full_name":"JAMIL-HUSSAIN Sura",
+    "site":"Lille"
+  },
+  {
+    "email":"t.jacob@e2c-grandlille.fr",
+    "firstname":"Thibault",
+    "lastname":"JACOB",
+    "role":"USER_COORD",
+    "full_name":"JACOB Thibault",
+    "site":"Roubaix"
+  },
+  {
+    "email":"x.caroulle@e2c-grandlille.fr",
+    "firstname":"Xavier",
+    "lastname":"CAROULLE",
+    "role":"USER_COORD",
+    "full_name":"CAROULLE Xavier",
+    "site":"Saint Omer"
+  }
+]

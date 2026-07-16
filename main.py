@@ -84,7 +84,7 @@ df["skills"] = df["skills"].apply(
     lambda x: x if isinstance(x, list) else []
 )
 
-df.to_csv('./output/tools.csv', index=False)
+#df.to_csv('./output/tools.csv', index=False)
 
 df_stud = pd.read_excel('./src/stagiaires.xlsx')
 
@@ -181,3 +181,24 @@ df_staff = df_staff[df_staff['role'].isin(roles)]
 
 #df_staff.to_csv('./output/staff.csv', index=False)
 
+df.to_json(
+    './output/tools.json',
+    orient='records',
+    force_ascii=False,
+    indent=2
+)
+
+df_stud.to_json(
+    './output/students.json',
+    orient='records',
+    force_ascii=False,
+    indent=2,
+    date_format='iso'
+)
+
+df_staff.to_json(
+    './output/staff.json',
+    orient='records',
+    force_ascii=False,
+    indent=2
+)

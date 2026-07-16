@@ -1,0 +1,4872 @@
+[
+  {
+    "name":"Accueil référent",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"SOCLE",
+    "mode":"mixte",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+      "1b",
+      "4b",
+      "5a"
+    ]
+  },
+  {
+    "name":"Entretien de recadrage",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Activité culturelle",
+    "planning":"planning",
+    "project":"Socialisation",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"agir en collectif",
+    "path":null,
+    "skills":[
+      "4b",
+      "7a",
+      "8b"
+    ]
+  },
+  {
+    "name":"Activité sportive",
+    "planning":"planning",
+    "project":"Socialisation",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"agir en collectif",
+    "path":null,
+    "skills":[
+      "4a",
+      "7b",
+      "8a"
+    ]
+  },
+  {
+    "name":"APC - Validation de compétences",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQB8_MdYRlU_RrCZWfDNm9qbASIjwm2sMp6A77kmN6BRbW4?e=QOs1qz",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Bilan APC",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"SOCLE",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgD59csxbfXuRp66SdjISCmgAQF0ljL39UXwX2OXESoR__8?e=TvZyH7",
+    "skills":[
+      "1e",
+      "6a",
+      "6b"
+    ]
+  },
+  {
+    "name":"Bilan de mi-parcours",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgDo9TH3YRraSbuFFirwEqysAR-ecV7YYj-VfPsKJidsasI?e=N3jPk7",
+    "skills":[
+      "1e",
+      "5a",
+      "6a"
+    ]
+  },
+  {
+    "name":"Café de l'emploi",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+      "1c",
+      "5a",
+      "6c"
+    ]
+  },
+  {
+    "name":"CPS 1 - Les qualités",
+    "planning":"planning",
+    "project":"dispositif - CPS",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgBZBy8-c2_tSaxRtLuY6tgqAYrNBTyDNSn1unUmGnVnDMk?e=WrwU5M",
+    "skills":[
+      "1c",
+      "4b",
+      "4c"
+    ]
+  },
+  {
+    "name":"CPS 2 - Les émotions",
+    "planning":"planning",
+    "project":"dispositif - CPS",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+      "1c",
+      "4b",
+      "4c"
+    ]
+  },
+  {
+    "name":"CPS 3 - les besoins",
+    "planning":"planning",
+    "project":"dispositif - CPS",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+      "1c",
+      "4b",
+      "4c"
+    ]
+  },
+  {
+    "name":"Démarches de recherche de stage",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:x:\/s\/e2cdocumentscommuns\/IQCNFFeBv85WSJyFjWGoonDuAcUX0QmOJfjuvmkvg-LYarQ?e=ERWegR",
+    "skills":[
+      "1c",
+      "1e",
+      "5c"
+    ]
+  },
+  {
+    "name":"Entretien référent",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:p:\/s\/E2CProcedures\/EVMmILqfwdBOstRYpqqyGSIBE3_XDpv7fIr20ZavkPqDZg?e=G4RUxb",
+    "skills":[
+      "1e",
+      "5a",
+      "7a"
+    ]
+  },
+  {
+    "name":"EP3A - Création",
+    "planning":"planning",
+    "project":"dispositif - EP3A",
+    "sequence":"SOCLE",
+    "mode":"sous-groupe",
+    "target":"agir en collectif",
+    "path":null,
+    "skills":[
+      "1c",
+      "1d",
+      "6b"
+    ]
+  },
+  {
+    "name":"EP3A - intro",
+    "planning":"planning",
+    "project":"dispositif - EP3A",
+    "sequence":"SOCLE",
+    "mode":"sous-groupe",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgAL8UmQjc7NQZ1vgI9WxCHCAWAmCq5LT4gB_ZwnnN-Vuuw?e=57FNvh",
+    "skills":[
+      "2b",
+      "6a",
+      "6b"
+    ]
+  },
+  {
+    "name":"EP3A - Présentation",
+    "planning":"planning",
+    "project":"dispositif - EP3A",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"communication",
+    "path":null,
+    "skills":[
+      "1b",
+      "4c",
+      "6b"
+    ]
+  },
+  {
+    "name":"EP3A - Recherche",
+    "planning":"planning",
+    "project":"dispositif - EP3A",
+    "sequence":"SOCLE",
+    "mode":"sous-groupe",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgDAqva7AOSRSZfc6NHEQUtjAWbLix8lkgzZWolCdw_k5FE?e=jQZIoM",
+    "skills":[
+      "1a",
+      "3c",
+      "5c"
+    ]
+  },
+  {
+    "name":"EP3A -Bilan",
+    "planning":"planning",
+    "project":"dispositif - EP3A",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgBGBguvT_ZvS62Z2IPlTaqfASZzNNUZliOqMbpXfOgYUzM?e=P0UJkG",
+    "skills":[
+      "1e",
+      "6a",
+      "6b"
+    ]
+  },
+  {
+    "name":"Intelligences Multiples",
+    "planning":"planning",
+    "project":"Connaissance de soi",
+    "sequence":"SOCLE",
+    "mode":"mixte",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgBZBy8-c2_tSaxRtLuY6tgqAYrNBTyDNSn1unUmGnVnDMk?e=WrwU5M",
+    "skills":[
+      "1c",
+      "5c",
+      "6a"
+    ]
+  },
+  {
+    "name":"Intervention Organisme de formation",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+      "5c",
+      "6c",
+      "7a"
+    ]
+  },
+  {
+    "name":"Jury de validation",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQD0owOFI5aBRLmC6Mnd6BNQAcf677FC7rfn2Egpl0gX7Yc?e=gv83tv",
+    "skills":[
+      "1e",
+      "5a",
+      "6c"
+    ]
+  },
+  {
+    "name":"les contrats en alternance",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgArDMQRLhPpRK6hY53BNND6Afd0EGJeGZgDZk4xpSU0Fwo?e=fkzVYa",
+    "skills":[
+      "4c",
+      "5a",
+      "6a"
+    ]
+  },
+  {
+    "name":"Livret de compétences - actualisation",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgBRpbga_iAiRo_K_1Mhr00DAY3Oltd9h3fdzDm9X24u7OI?e=lv03Yb",
+    "skills":[
+      "1b",
+      "5a",
+      "6b"
+    ]
+  },
+  {
+    "name":"Préparation des démarches - lundi de l'emploi",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:x:\/s\/e2cdocumentscommuns\/IQCNFFeBv85WSJyFjWGoonDuAcUX0QmOJfjuvmkvg-LYarQ?e=ERWegR",
+    "skills":[
+      "3c",
+      "5b",
+      "6c"
+    ]
+  },
+  {
+    "name":"Rencontre ton CRE- Je postule",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+      "5a",
+      "5c",
+      "6c"
+    ]
+  },
+  {
+    "name":"REX - avant stage",
+    "planning":"planning",
+    "project":"dispositif - REX",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/EvxeUHSHAg9DmXgjo7F-vesBmmEtUjgFMkifiIFIz-IfKw?e=dfl8nz",
+    "skills":[
+      "1b",
+      "3c",
+      "5c"
+    ]
+  },
+  {
+    "name":"REX - Restitution",
+    "planning":"planning",
+    "project":"dispositif - REX",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"communication",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgD8XlB0hwIPQ5l4I6Oxfr3rAZphLVI4BTJIn4iBSM_iHys?e=gPAWoc",
+    "skills":[
+      "1b",
+      "1c",
+      "5c"
+    ]
+  },
+  {
+    "name":"REX- retour de stage",
+    "planning":"planning",
+    "project":"dispositif - REX",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgD8XlB0hwIPQ5l4I6Oxfr3rAZphLVI4BTJIn4iBSM_iHys?e=gPAWoc",
+    "skills":[
+      "1b",
+      "3c",
+      "5c"
+    ]
+  },
+  {
+    "name":"RIASEC",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"INTEGRATION",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgDAqva7AOSRSZfc6NHEQUtjAWbLix8lkgzZWolCdw_k5FE?e=jQZIoM",
+    "skills":[
+      "3b",
+      "5b",
+      "6a"
+    ]
+  },
+  {
+    "name":"Séance A La Carte",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"SOCLE",
+    "mode":"mixte",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgDAqva7AOSRSZfc6NHEQUtjAWbLix8lkgzZWolCdw_k5FE?e=jQZIoM",
+    "skills":[
+      "4b",
+      "5b",
+      "6c"
+    ]
+  },
+  {
+    "name":"Simulation d'entretien",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/EaxupB1R23tCpNcBuwo_DKgBEi8QoZaBEy1xDalIn5XajA?e=2kWIO4",
+    "skills":[
+      "5a",
+      "5b",
+      "6a"
+    ]
+  },
+  {
+    "name":"Enact'E2C 1 - Découvrir l’ESS & les Objectifs de Développement Durable",
+    "planning":"planning",
+    "project":"dispositif - EnactE2C",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQDqngrgEiJCT5vhrUzz7LS9AWQSNMp-k1qmIj3PtClfsWQ?e=W5t5q4",
+    "skills":[
+      "5a",
+      "6a",
+      "8c"
+    ]
+  },
+  {
+    "name":"Enact'E2C 2 -  Apprendre à se connaître & Constituer les équipes projets",
+    "planning":"planning",
+    "project":"dispositif - EnactE2C",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQC6HJeW_nBjSqjq-HL8cC_dAfst2P0iVdBLAjoMyC2vYCw?e=LgVuMN",
+    "skills":[
+      "4a",
+      "5a",
+      "6a"
+    ]
+  },
+  {
+    "name":"Enact'E2C 3 - créativité",
+    "planning":"planning",
+    "project":"dispositif - EnactE2C",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQDUC4gl-q-dTbxFn4mBbiGqAUUmRMtnVsAAy4tV4jNS6no?e=Dbq1DA",
+    "skills":[
+      "4c",
+      "5c",
+      "6b"
+    ]
+  },
+  {
+    "name":"Enact'E2c 4 - Visite d’une entreprise sociale (ESS)",
+    "planning":"planning",
+    "project":"dispositif - EnactE2C",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQChfITYH2C1Qa36CfuuflOjAQJxQGQnMwUUmUVNmXmFXlE?e=GN5NyK",
+    "skills":[
+      "5b",
+      "6c",
+      "7a"
+    ]
+  },
+  {
+    "name":"Enact'E2C 5 - Prototypage : Donner forme au projet",
+    "planning":"planning",
+    "project":"dispositif - EnactE2C",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQBUhTO4uOvlRLsB7TzKGH4_AQjZ7kaNwjYvFVt_y0n5FNs?e=fENwP9",
+    "skills":[
+      "4c",
+      "5b",
+      "6b"
+    ]
+  },
+  {
+    "name":"Enact'E2C 6 - Enquête & Immersion terrain : Comprendre les utilisateurs",
+    "planning":"planning",
+    "project":"dispositif - EnactE2C",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQDOsBmgkd2zQJlwznSNMDRlAfG5L4WPKhOCzFZWioKPyGQ?e=GKqVHX",
+    "skills":[
+      "5c",
+      "6c",
+      "7a"
+    ]
+  },
+  {
+    "name":"Enact'E2C 7 - Construire le modèle économique du projet",
+    "planning":"planning",
+    "project":"dispositif - EnactE2C",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQAGkGVowfcuS5miSSggDHCnAQq5N78RHzozUK6neaNWKoA?e=CUBASh",
+    "skills":[
+      "5b",
+      "6b",
+      "7d"
+    ]
+  },
+  {
+    "name":"Enact'E2C 8 - Budget & Synthèse du projet",
+    "planning":"planning",
+    "project":"dispositif - EnactE2C",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQBFzgPeYo5BSb9efBPAfid9Aa_YHKfma2yPJVgnaAXjF0g?e=uuXP3j",
+    "skills":[
+      "2a",
+      "3a",
+      "7b"
+    ]
+  },
+  {
+    "name":"Enact'E2C 9 - Présentation orale : Préparer et réussir le pitch du projet",
+    "planning":"planning",
+    "project":"dispositif - EnactE2C",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQC1qEUzH43-T4ddKctFI_PWAQPEc7iBkpGxtOFPNwvl8FI?e=n5PPw2",
+    "skills":[
+      "1c",
+      "4b",
+      "5c"
+    ]
+  },
+  {
+    "name":"Enact'E2C 10 - À la carte : Finalisation & Préparation au mini‑forum",
+    "planning":"planning",
+    "project":"dispositif - EnactE2C",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQA8c1FW7_m_SpwtGMmTF2e9AeCQwXV55N9jsol7DMCOBYc?e=I2kVF3",
+    "skills":[
+      "4c",
+      "5b",
+      "6c"
+    ]
+  },
+  {
+    "name":"enact'E2C 11 - Mini‑Forum : Présentation finale des projets",
+    "planning":"planning",
+    "project":"dispositif - EnactE2C",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQDXGPLC5B0KSop8SJ1Tly0eAW71DxRtipxvCwqidFn4A9I?e=RSnE3X",
+    "skills":[
+      "1e",
+      "4b",
+      "5c"
+    ]
+  },
+  {
+    "name":"Enact E2C - Bilan  : valoriser les apprentissages & clôturer le parcours",
+    "planning":"planning",
+    "project":"dispositif - EnactE2C",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQADAPz2AHp2T6pINeOlq0KRAUzUgdB4bUyCFvNGSrOTbLg?e=rDV1T2",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Atelier mémoire 1",
+    "planning":"planning",
+    "project":"Connaissance de soi",
+    "sequence":"INTEGRATION",
+    "mode":"collectif",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/EsXsIyAmzrlAv1TWcU_cNg8B0xz_NeKgOZ43iIY35iRUew?e=YcmlnV",
+    "skills":[
+      "1a",
+      "6a",
+      "6b"
+    ]
+  },
+  {
+    "name":"SFC",
+    "planning":"planning",
+    "project":"Connaissance de soi",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/EvmQvslfaO5BkbDoKYrPO0wBHPiZAGijNL5_Ewltjxu1-g?e=uTHWco",
+    "skills":[
+      "1e",
+      "5a",
+      "5c"
+    ]
+  },
+  {
+    "name":"Les représentations (version courte)",
+    "planning":"planning",
+    "project":"Connaissance de soi",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/EsqKui_Zu_NNiE0iZQU6TQoBbOmham3zMLOjQ1RMPHFJFg?e=GktKjr",
+    "skills":[
+      "1a",
+      "1e",
+      "4a"
+    ]
+  },
+  {
+    "name":"Les représentations (version longue)",
+    "planning":"planning",
+    "project":"Connaissance de soi",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/ElwGpD59YAhDl0jopbOs5mUBJHeIMsDvEWJAvC_bivoWZw?e=lw561k",
+    "skills":[
+      "1a",
+      "1e",
+      "4a"
+    ]
+  },
+  {
+    "name":"Portrait en image",
+    "planning":"planning",
+    "project":"Connaissance de soi",
+    "sequence":"INTEGRATION",
+    "mode":"individuel",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/EgkMpdHXXrBDnHS4BdJf_XcBgrgXStOLH5Vr52LD_8hcGQ?e=vjTtQ9",
+    "skills":[
+      "5a",
+      "5b",
+      "5c"
+    ]
+  },
+  {
+    "name":"CPS Intro",
+    "planning":"planning",
+    "project":"dispositif - CPS",
+    "sequence":"INTEGRATION",
+    "mode":"collectif",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/Eit6_q5rEv1El7S1sjkVh0MBw9oc-Mgtu_tpRATbahgfaw?e=ck1iRe",
+    "skills":[
+      "4b",
+      "5a",
+      "6a"
+    ]
+  },
+  {
+    "name":"CV",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"INTEGRATION",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/EWQTlXhEV4xDjq3SxVB8qzABr3d90n1EdDtmaY5LDPi1ZQ?e=XVHvVj",
+    "skills":[
+      "1b",
+      "3e",
+      "5a",
+      "7d"
+    ]
+  },
+  {
+    "name":"Lettre de motivation",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"INTEGRATION",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/ESI3E-2gMBtHnOo976rRqpsBuCAW4Avfm8oh38ON6JWxUw?e=nsh0Og",
+    "skills":[
+      "1b",
+      "3b",
+      "5b"
+    ]
+  },
+  {
+    "name":"Immersion centre de formation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Stage de découverte",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Stage de validation de projet",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Stage d'acquisition de compétences",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Stage de pré embauche",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Stage Ready",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"INTEGRATION",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/Eb9ULIjGiIBOkxEcqWDhD-YBidI_nNVu9Wgj7j9C41ZcCA?e=shM9CZ",
+    "skills":[
+      "1c",
+      "1e",
+      "4a",
+      "6c"
+    ]
+  },
+  {
+    "name":"Un stage, pourquoi, comment?",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"INTEGRATION",
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/EmYKXt5gbC9JkBpfywisl2cB97rxrS632Cj7ZDkm91aNCQ?e=Qyre4D",
+    "skills":[
+      "1e",
+      "6a",
+      "7a"
+    ]
+  },
+  {
+    "name":"Se présenter en entreprise",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"INTEGRATION",
+    "mode":"collectif",
+    "target":"communication",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/ETrJtH4XertJkz-mpBzVAF0Bw3XyukkJqvuOFb4e72UL5A?e=xfI5gs",
+    "skills":[
+      "1a",
+      "5b",
+      "5c"
+    ]
+  },
+  {
+    "name":"Stagiaire en or",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"INTEGRATION",
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/Er0dxrmvHdNIseAL9cy-pWIBY25_-dh5QBKoxppEolgW9A?e=LUujmU",
+    "skills":[
+      "4a",
+      "7a",
+      "7b"
+    ]
+  },
+  {
+    "name":"Métiers en tension",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/Ety4obQOghJLjLUOgAd8cmwB57LWxl1EdaDrhhRplCeAWA?e=tEFGZp",
+    "skills":[
+      "1c",
+      "1e",
+      "5c"
+    ]
+  },
+  {
+    "name":"Le tenue professionnelle",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"INTEGRATION",
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/EliR7upQ2eFNrK3qkbXPQ3UBM3AjRWXEKhzzBRsuQZnwgQ?e=2XXcJv",
+    "skills":[
+      "7a",
+      "7b",
+      "8c"
+    ]
+  },
+  {
+    "name":"Forum PP",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"INTEGRATION",
+    "mode":"sous-groupe",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/Eo5Ps2_JXdRLoTVi9vaUTZUB-ykIXxk3F1X4XWSko_CLzA?e=Wbvwmu",
+    "skills":[
+      "5a",
+      "5b",
+      "5c"
+    ]
+  },
+  {
+    "name":"Introduction Parcoureo",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"INTEGRATION",
+    "mode":"individuel",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/EuceRCj9CNpHsDJdYw9WayQBnT63-gqy58CGAJy3Cl9FmQ?e=Mcn915",
+    "skills":[
+      "3c",
+      "5b",
+      "6c"
+    ]
+  },
+  {
+    "name":"Signature du suivi post-E2C",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Entretien de suivi Post-E2C",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Evaluation de stage",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Tests de positionnment",
+    "planning":"planning",
+    "project":"Remise à niveau",
+    "sequence":"INTEGRATION",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CProcedures\/ERm6YB7OyNVMrlRDpD1pchwB30KJDFMwP0zUFJ-3jpP6rg?e=9xa0zE",
+    "skills":[
+      "1d",
+      "2a",
+      "2c"
+    ]
+  },
+  {
+    "name":"PIM Socialisation",
+    "planning":"planning",
+    "project":"Socialisation",
+    "sequence":"INTEGRATION",
+    "mode":"sous-groupe",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/EjSUdgBXSjRMmSEFYkh5JxQBASGg9gV3C62GxAt2f0L5UA?e=Axr3H0",
+    "skills":[
+      "2d",
+      "8a",
+      "8b",
+      "9a",
+      "9c"
+    ]
+  },
+  {
+    "name":"Dilemme",
+    "planning":"planning",
+    "project":"Socialisation",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+      "2b",
+      "4b",
+      "8b",
+      "8c"
+    ]
+  },
+  {
+    "name":"Entretien PIM",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"INTEGRATION",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Entretien RAN",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"INTEGRATION",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Premier contact APC",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"INTEGRATION",
+    "mode":"collectif",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/EsddEbO3QLpBrs3zG3vOEicBsRRPzpV9LIIi32gi5WIbvg?e=BxE24Y",
+    "skills":[
+      "5a",
+      "6a",
+      "6b"
+    ]
+  },
+  {
+    "name":"Accueil- brise glace",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"INTEGRATION",
+    "mode":"collectif",
+    "target":"communication",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/EiCB0SoF_nFMqbv0dlhsPPABmiojh04VdRuHPoPswkrFNA?e=JSO0UY",
+    "skills":[
+      "1a",
+      "1c",
+      "7a"
+    ]
+  },
+  {
+    "name":"Livret de compétences - création",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/Ev0EIR7l27VCsA_JHIZTHXAB-FP2XTzpVyiSrH8PKgTDyw?e=lgUeJW",
+    "skills":[
+      "3a",
+      "3d",
+      "6a"
+    ]
+  },
+  {
+    "name":"Dossier d'inscription",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"INTEGRATION",
+    "mode":"individuel",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+      "3a",
+      "7a",
+      "7c"
+    ]
+  },
+  {
+    "name":"Simulation globale - bloc 1 - contexte",
+    "planning":"planning",
+    "project":"dispositif - Simulation globale",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":null,
+    "path":null,
+    "skills":[
+      "1c",
+      "4a",
+      "4c"
+    ]
+  },
+  {
+    "name":"Simulation globale - bloc 2 - environnement de travail",
+    "planning":"planning",
+    "project":"dispositif - Simulation globale",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":null,
+    "path":null,
+    "skills":[
+      "5a",
+      "6b",
+      "7a"
+    ]
+  },
+  {
+    "name":"Simulation globale - bloc 3 - recrutement",
+    "planning":"planning",
+    "project":"dispositif - Simulation globale",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":null,
+    "path":null,
+    "skills":[
+      "1e",
+      "4b",
+      "5b"
+    ]
+  },
+  {
+    "name":"Simulation globale - bloc 4 - speedRH",
+    "planning":"planning",
+    "project":"dispositif - Simulation globale",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":null,
+    "path":null,
+    "skills":[
+      "1c",
+      "4b",
+      "6c"
+    ]
+  },
+  {
+    "name":"Simulation globale - bloc 5 - crémaillerez--vous?",
+    "planning":"planning",
+    "project":"dispositif - Simulation globale",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":null,
+    "path":null,
+    "skills":[
+      "4c",
+      "5b",
+      "7b"
+    ]
+  },
+  {
+    "name":"Simulation globale - bloc 6 - restitution",
+    "planning":"planning",
+    "project":"dispositif - Simulation globale",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":null,
+    "path":null,
+    "skills":[
+      "1e",
+      "5c",
+      "6a"
+    ]
+  },
+  {
+    "name":"Ambitions persos\/pros",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Banque des métiers",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Je pense que tu es ",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Le village",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"s'informer, toujours au pluriel",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"intérets perso et pro",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Résignation apprise acquise",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"le rudologue",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"argumenter oui mais… et si",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Qu'est-ce que le travail",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Je n'aime pas, je n'aime pas",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Job Coaching",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+      "1e",
+      "5c",
+      "6c"
+    ]
+  },
+  {
+    "name":"Mes préférences",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Se former, chacun sa route…",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Les 5 mots clés de mon métier",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Service RH - entretiens",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"L'héritage",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Entretiens : truc et astuces",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Relance téléphonique",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"LM de préembauche",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Mes outils de recherche d'emploi",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Se présenter en 3 minutes",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Les SFC de mon métier",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Mobilité professionnel et géographique",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Mes axes de progrès",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Recherche de formation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Mes qualités",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Mes valeurs",
+    "planning":"hors-planning",
+    "project":"Connaissance de soi",
+    "sequence":"BOITE A OUTIL",
+    "mode":"individuel",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgAydhClxal7QJfeQB04FHlWAXwrFpt-Nn1rWc20rRRyfac?e=Mf5jAp",
+    "skills":[
+      "1a",
+      "1e",
+      "5a",
+      "5c",
+      "6a"
+    ]
+  },
+  {
+    "name":"Candidature spontanée",
+    "planning":"hors-planning",
+    "project":"Projet professionnel",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgC6ogx8Qq97T4OjpgjuUcTKAUVHoKcviSF95kWMCLaX4bo?e=ksbrt1",
+    "skills":[
+      "1b",
+      "3b",
+      "5b"
+    ]
+  },
+  {
+    "name":"Réseaux sociaux",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Simulation d'entretien",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+      "5a",
+      "5b",
+      "6a"
+    ]
+  },
+  {
+    "name":"ça recrute",
+    "planning":"hors-planning",
+    "project":"Projet professionnel",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgC5TbjxYDpHRZH_cpzbJYXcAeWJwJXNOCL4V-0aFQCS9AY?e=UaZjI9",
+    "skills":[
+      "5a",
+      "5c"
+    ]
+  },
+  {
+    "name":"La répartition de mon temps",
+    "planning":"planning",
+    "project":"Connaissance de soi",
+    "sequence":"BOITE A OUTIL",
+    "mode":"individuel",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/Evgl4fa7PCNOpeS_jC40cQEB136eOR5gOuAabfzCgDGtLg?e=VVqsW4",
+    "skills":[
+      "2b",
+      "2d",
+      "3c"
+    ]
+  },
+  {
+    "name":"Election des représentants des stagiaires",
+    "planning":"planning",
+    "project":"Socialisation",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"agir en collectif",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/e2cdocumentscommuns\/IQCC5NjoX8EeQLYwOAB_4iTiAX9cZ0gUIXSiz1Oeq3aAsRI?e=kPpFFY",
+    "skills":[
+      "1c",
+      "4c",
+      "8c"
+    ]
+  },
+  {
+    "name":"Enquête métiers\/formations",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQA6eVpXP9MWQqoBdJ9MopoSAXbJ1hjBol8HP55I_HX8_G0?e=d31h4E",
+    "skills":[
+      "4c",
+      "6a",
+      "6c"
+    ]
+  },
+  {
+    "name":"Découverte métiers et conditions de travail",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Mes représentations sur les environnement de travail",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Retour RIASEC",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Pitcher mon projet",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Préparation Jury de validation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Le vocabulaire de mon métier",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Réponse à une offre",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"A chacun sa part",
+    "planning":"planning",
+    "project":"Connaissance de soi",
+    "sequence":"BOITE A OUTIL",
+    "mode":"collectif",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQBrwWeawdyBS61X4HaIDDr2Adlrc4Ns5JmBtm4RwaI8B3Q?e=oPopbe",
+    "skills":[
+      "1a",
+      "1b",
+      "1c"
+    ]
+  },
+  {
+    "name":"Les rôles dans les groupes",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"sous-groupe",
+    "target":"agir en collectif",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Oser s'exprimer",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Organiser ses idées",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Faire une synthèse",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Adapter son expression",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Expliquer",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Argumenter",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"S'exprimer et communiquer",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Préparation forum emploi",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"forum emploi",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":null,
+    "target":null,
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"présent - premier groupe",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"présent - infinitif en IR",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"présent - 3ème groupe",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"présent - méthode simplifiée",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"présent - évaluation 1 - verbes utilisés à l'oral",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"présent - évaluation 2 - verbes utilisés à l'écrit",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"présent - évaluation générale -verbes utilisés à l'oral",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"présent - évaluation générale -verbes utilisés à l'écrit",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"imparfait - exercices",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"imparfait - évaluation 1",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"imparfait - évaluation 2",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"futur simple - exercices 0",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"futur simple - exercices 1",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"futur simple - exercices 2",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"futur simple - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"ponctuation - exercices 1",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"ponctuation - exercices 2",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"ponctuation - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"passé composé - exercices",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"passé composé - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"vocabulaire - exercices",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"vocabulaire - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"consigne - exercices",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"consigne - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"accords - exercices",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"accords - évaluations",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"synonymes - préfixes - suffixes - exercices",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"synonymes - préfixes - suffixes - évaluations",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"homonymes - homophones - homographes - exercices",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"homonymes - homophones - homographes - ne pas confondre...",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"homonymes - homophones - homographes - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"négation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"phrase négative",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"phrase intérrogative",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"interrogation et négation - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"connecteurs logiques - exercices",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"connecteurs logiques - outils",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"connecteurs logiques - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"adapter son discours",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"registres de langue - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"EXTHEX",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - produire une lettre",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word -mise en page - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - CV",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - CV à corriger - évaluation 1",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - CV check list - évaluation 2",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - saisir, imprimer, enregistrer",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - paramétrer",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - msie en forme de texte",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - Interlignes et espacements",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - retraits de paragraphes",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - utiliser les tabulations",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - insérer un tableau",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - mettre en forme un tableau",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - insérer un média",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - modifier un texte",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - vérifier et corriger un texte",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - listes, symboles et caractères spéciaux",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - bordures et trames",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - mise en page en colonnes",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - modèles de documents",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - formulaire",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Word - gérer un document long",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - concevoir et utiliser un tableau",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - budget - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - saisir des données et des formules simples",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - mettre en forme une feuille de calcul",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - utiliser des fonction et présenter des nombres",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - trier des données et modifier une feuille de clacul",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - créer des graphiques",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - imprimer une feuille de calcul",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - Nommer et recopier des cellules",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - définir une action conditionnellle simple",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - modifier et mettre en forme un graphique",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - étude de cas 1 - taxe foncière",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - étude de cas 2 - impot sur le revenu",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - étude de cas 3 - impot sur le revenu",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - budget - exercice",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - budget - texte à trou évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Excel - budget - enquête de satisfaction",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Powerpoint - créer une nouvelle présentation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Powerpoint - Ajoutern supprimer et déplacer des diapositives",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Powerpoint - Créer des animations",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"introduction Classroom",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"CMS - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Créer un site web avec un CMS",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Cration d'appli avec Glide",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"logique et tests psychotechnique",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Cave aux énigmes",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"logique - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"additions",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"soustractions",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"additions & soustractions 2021 ",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"additions & soustractions - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"multiplications",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"réviser ses tables de multiplication",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"multiplier astucieusement",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"multiplication avec les doigts",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"multiplication des nombres décimaux",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"multiplication jusqu'à 100",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"multiplications 2021",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"multiplications 2021 - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"division 2021",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"les divisions",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"division - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"division 2021 - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"proportionnalité",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"proportionnalité - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"résoudre un problème de pourcentage",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"pourcentages directs",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"pourcentages indirects",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"pourcentages - tva et factures",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"pourcentages - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"aires et périmètres",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"aires - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"dossier fractions",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"fractions - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"conversions d'unités de mesure",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"conversions d'unités de mesure - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"volumes",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"aires et volumes - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"durées",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"additioner et soustraire des unités de temps - ",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Résoudre un problème de vitesse",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Changer d'unité de vitesse",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Calculer une vitesse moyenne",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"la vitesse",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"vitesse - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"priorité des opérations",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"utiliser la calculatrice",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"priorité des opérations - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"calculatrice - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"comparaison inégalité",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"comparaison inégalité - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Résoudre une équation à une inconnue avec des nombres relatifs",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"mettre un problème en équation - 1",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"mettre un problème en équation - 2",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"mettre un problème en équation - 3",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Résoudre une équation à une inconnue - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"notions de base en géométrie",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"droites parallèles et perpendiculaires",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"quadrilatères",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"triangles",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"cercle",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"les angles",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"effectuer un tracé géométrique - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Utiliser les instruments pour réaliser des constructions géométrique - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"angles (Simon et Dylan)",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"angles - évaluations",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"moyenne et Excel",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"synthèse statistique",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Fiche évaluation des compétences orales",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"GDP - Cahier de recettes",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Application Graines de pâtissier",
+    "planning":"planning",
+    "project":"Remise à niveau",
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQCNNsNijMT9SouSEVt0YCtkAalBw_TeB8G-k15_L150Dts?e=Dj26iG",
+    "skills":[
+      "3a",
+      "3b",
+      "3c"
+    ]
+  },
+  {
+    "name":"Cyberpark",
+    "planning":"planning",
+    "project":"Socialisation",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+      "3a",
+      "3c",
+      "3d"
+    ]
+  },
+  {
+    "name":"Developpement durable et éco-pâtisserie",
+    "planning":"planning",
+    "project":"Socialisation",
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQD2CBAWeFIbSL1GBvL8GHvMASM1GAK0z2aslcdc76N1GDM?e=r2DwTj",
+    "skills":[
+      "1e",
+      "4c",
+      "7d"
+    ]
+  },
+  {
+    "name":"gestion d'une pâtisserie",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQDXHSIiKBZ6SoyLiRe1uIDpAQdSdlmJnChBFOsQJyFz4m0?e=2bNwwb",
+    "skills":[
+      "2b",
+      "2c",
+      "4c"
+    ]
+  },
+  {
+    "name":"la saisonnalité et l'utilisation des fruits en pâtisserie",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQDIgUdzc_xLQLwb9vnBde4-ATSNIlEK8fWGXKa0RXWffcQ?e=fROXUD",
+    "skills":[
+      "1a",
+      "1c",
+      "7d"
+    ]
+  },
+  {
+    "name":"Le matériel professionnel",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQDwMd8nzsP8QJ96fhoJyJKQAZl5YqiasbNOGAq6fF-nQdw?e=camb5R",
+    "skills":[
+      "4a",
+      "6a",
+      "6b"
+    ]
+  },
+  {
+    "name":"Le tour de France des pâtisseries",
+    "planning":"planning",
+    "project":"Socialisation",
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQAr0VvrnySdT4M9C38MKVxJAXBaZdB4eUr1OCHc1THGHl4?e=Jy7VyV",
+    "skills":[
+      "1b",
+      "2d",
+      "3c"
+    ]
+  },
+  {
+    "name":"Le vocabulaire professionnel",
+    "planning":"planning",
+    "project":"Remise à niveau",
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQAZiz3qXbXRQJhiR5MEHE6zAZZ_u52kHWom_c1kiMespjM?e=PbyAf4",
+    "skills":[
+      "1c",
+      "1e",
+      "4a"
+    ]
+  },
+  {
+    "name":"Les règles sanitaires et l'hygiène en pâtisserie",
+    "planning":"planning",
+    "project":"Socialisation",
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQDtS40E3B34R434AJbC6fJrAdowhyGzlHPk41pTzEuQ4Ik?e=pYus4q",
+    "skills":[
+      "1e",
+      "7a",
+      "7b"
+    ]
+  },
+  {
+    "name":"Livret des graines",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"mixte",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQDfEovTxgJmQbdv9u-v8c4PAZuILdGVR-AakRytXU1CC7M?e=T7tEiF",
+    "skills":[
+      "3c",
+      "5a",
+      "6a"
+    ]
+  },
+  {
+    "name":"Pâtissier chimiste émulsion et tempérage du chocolat",
+    "planning":"planning",
+    "project":"Remise à niveau",
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQAlU48Jcm45QpFqQ2j4VWcZAbsKMnKgFTd6I0G90OlsT1Y?e=1esWEY",
+    "skills":[
+      "1b",
+      "2b",
+      "3c"
+    ]
+  },
+  {
+    "name":"Proportion, conversion et mesure en pâtisserie",
+    "planning":"planning",
+    "project":"Remise à niveau",
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQBCnkcTCLKiTYUnVQL4BYOgAR44gAU69MJkGjvKcsjrniA?e=52Q0sx",
+    "skills":[
+      "2a",
+      "2b",
+      "2c"
+    ]
+  },
+  {
+    "name":"GDP - pourcentages - évaluation",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"CAP Pâtisserie : où j’en suis aujourd’hui ?",
+    "planning":"planning",
+    "project":"Remise à niveau",
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+      "1a",
+      "2b",
+      "6b"
+    ]
+  },
+  {
+    "name":"Sujet CAP Français",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQBXcyxO6ETnQ59xZlCAKkulAZN0e8h0FrS4945iZayMuGg?e=9EGfAa",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Sujet CAP Math",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQAJN1cGp6MhQ7Cm_l1jdgrSAcKpiZ1cE4yxgIo9WiVpfH0?e=sEImWS",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Sujet CAP Math métropole",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQCTk492FzDyQJ1NN1lQVtjxAYZU5_cZo3coRlv0nEFiv_k?e=zlUfEp",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Sujet CAP 2023",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQCIvBeTyWc2R58NPzacu1LyAbILaADwwkhS0so3cJHIfhg?e=eEbEJG",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Sujet CAP Sciences",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQA4yMFXtrJMTK6YwDNFNTNPAT6oASX7dWpyIV8_FQk_YRo?e=hNLWhM",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Défis",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Résolution de problème",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"sous-groupe",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Mots croisés GdP ",
+    "planning":"planning",
+    "project":"Remise à niveau",
+    "sequence":"PM - Graines de pâtissier",
+    "mode":"individuel",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQAbFJhpWQMGQZUUU5Ojay1DAYyo7LiO46dwTb81qFVOQpM?e=P1xkty",
+    "skills":[
+      "1d",
+      "3c",
+      "6b"
+    ]
+  },
+  {
+    "name":"Design - Construction de projet",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"HTML & CSS",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"JavaScript",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"MySQL",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"PHP",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Unity - Game Design",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Modélisation 3D",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Architecture réseau",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Ecrire sur l'eau",
+    "planning":"planning",
+    "project":"Remise à niveau",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/EsmaDrjqMRFBtkfWmViO8ooB79sgAHbhLX0FIBD-aCXIYA?e=sc1hGe",
+    "skills":[
+      "1b",
+      "1c",
+      "1e"
+    ]
+  },
+  {
+    "name":"Cyber Sécurité",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Arduino",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Workshop",
+    "planning":"planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Santé - sujets math",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":"PM - Santé & Social",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Accueil Client",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Santé & Social",
+    "mode":"collectif",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Les métiers du secteur médico-social",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"PM - Santé & Social",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQAgv-U3pDjaRowMAKl5O5RgAUhMpviP5PhXiilPWSsvUPU?e=nas7Ep",
+    "skills":[
+      "1c",
+      "4c",
+      "5a"
+    ]
+  },
+  {
+    "name":"Les règles sanitaires et d'hygiène",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"PM - Santé & Social",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQDSBjFlo9GaSL3PIHOhrq61AaGVwHjm3MchQbtcHxAzKB0?e=KZzau5",
+    "skills":[
+      "4c",
+      "7a",
+      "7b"
+    ]
+  },
+  {
+    "name":"Les valeurs du secteur médico-social et de la Croix Rouge Française",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"PM - Santé & Social",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQAWUlRJwod8Q7_8hPkL3KvYAbb3MHZoTWj7T0d11aiCs70?e=H8V0rs",
+    "skills":[
+      "1e",
+      "4c",
+      "5a"
+    ]
+  },
+  {
+    "name":"Anatomie",
+    "planning":"planning",
+    "project":"Remise à niveau",
+    "sequence":"PM - Santé & Social",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQDqIijBF70wRqLOwiYjH2BSAYkI846GzJsbaj82jVBCnLM?e=zU1u9Z",
+    "skills":[
+      "1a",
+      "3c",
+      "4c"
+    ]
+  },
+  {
+    "name":"Le secret professionnel",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"PM - Santé & Social",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQBbC_Cj9aKRS5QcSm5aDZFGAbm8jcQlpbC8F_QvidJC7X4?e=2LsCvX",
+    "skills":[
+      "1e",
+      "4a",
+      "7a"
+    ]
+  },
+  {
+    "name":"Transmission médicale",
+    "planning":"planning",
+    "project":"Remise à niveau",
+    "sequence":"PM - Santé & Social",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQABJzDovdwXTJo0BM0W_auiAdwQdGsqolQggZnbFdcIUeM?e=MNBpqH",
+    "skills":[
+      "1a",
+      "1b",
+      "1c"
+    ]
+  },
+  {
+    "name":"Book parcours santé",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":"PM - Santé & Social",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Vocabulaire médical",
+    "planning":"planning",
+    "project":"Remise à niveau",
+    "sequence":"PM - Santé & Social",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQDLc-WyAJg_Q5xHm_AxdiglAdRCS-LPLw7VjYsOZa0tOGg?e=S8P5Gg",
+    "skills":[
+      "1a",
+      "1b",
+      "7a"
+    ]
+  },
+  {
+    "name":"Cadre Légal",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Santé & Social",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Gestion d'un centre de profit",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"L'avenir de la profession",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"3D parts and pieces",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Accueil Client",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Algorithme pour déterminer la terminaison correcte des verbes et participes passés en français",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Calul de cylindrée",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Calcul de la pression des pneus",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"connaissances générales",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Accueil - jeu de rôle",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Le serrage des roues",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Les pneux et les angles",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Les principales unités de mesure en mécanique",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Projet facture Norauto",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"S'exprimer correctement",
+    "planning":"planning",
+    "project":null,
+    "sequence":"PM - Mécanique",
+    "mode":"mixte",
+    "target":"communication",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Haiku",
+    "planning":"planning",
+    "project":"Remise à niveau",
+    "sequence":"BOITE A OUTIL",
+    "mode":"collectif",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQA4Ul-X7RQtRLQVai5-zQTWAV1vEAaSK_IgMKlJS8SkqDo?e=JVwRxT",
+    "skills":[
+      "1b",
+      "1c",
+      "1d"
+    ]
+  },
+  {
+    "name":"Expression orale",
+    "planning":"planning",
+    "project":"Remise à niveau",
+    "sequence":"BOITE A OUTIL",
+    "mode":"collectif",
+    "target":"communication",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgDNDFj6KGaXS7j2VtWUPEdDAWhtXUTpUOL31fCtWXqZBtc?e=ujq7LY",
+    "skills":[
+      "1b",
+      "1c",
+      "1e"
+    ]
+  },
+  {
+    "name":"Livret CPS",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"individuel",
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Code de la route",
+    "planning":"planning",
+    "project":"Socialisation",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQCd8nbwJCe4RZJVKI3-jM2pAScylYVR1XQ9Ak8a0GJqnNw?e=6Yd5k0",
+    "skills":[
+      "2d",
+      "7a",
+      "7b"
+    ]
+  },
+  {
+    "name":"Mes objectifs",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"RS - dans la peau d'un recruteur",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Atelier Sudoku",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":null,
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"gestion du temps",
+    "planning":"planning",
+    "project":null,
+    "sequence":"BOITE A OUTIL",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Atelier mémoire 2 - mémoire visuelle",
+    "planning":"planning",
+    "project":null,
+    "sequence":"BOITE A OUTIL",
+    "mode":"individuel",
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Atelier mémoire 3 - mémoire auditive",
+    "planning":"planning",
+    "project":null,
+    "sequence":"BOITE A OUTIL",
+    "mode":"individuel",
+    "target":"connaissance de soi",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Atelier cryptographie",
+    "planning":"planning",
+    "project":null,
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Le pire CV du monde",
+    "planning":"planning",
+    "project":null,
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Le rivage des syrtes",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":"BOITE A OUTIL",
+    "mode":"collectif",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/r\/sites\/E2CRessourcesPdagogiques\/_layouts\/15\/Doc.aspx?sourcedoc=%7B3676F58C-C3B4-4CE7-A366-491C6471F0FD%7D&file=LES%20SYRTES.docx&action=default&mobileredirect=true&DefaultItemOpen=1",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Intro Up2C",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"INTEGRATION",
+    "mode":"collectif",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+      "3a",
+      "3c",
+      "3d"
+    ]
+  },
+  {
+    "name":"Urgence stage",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"SOCLE",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+      "3c",
+      "5c",
+      "6c"
+    ]
+  },
+  {
+    "name":"La machine à laver",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":"BOITE A OUTIL",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/Et3AvCxAf45OqAl4cMn14IABco0562TgsaLW90s78kVD7w?e=Qhcdcs",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Les factures",
+    "planning":"hors-planning",
+    "project":null,
+    "sequence":"BOITE A OUTIL",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:x:\/s\/E2CRessourcesPdagogiques\/ERs5J0PmvodNu-8NRQxDNLwB7iLeKww3ZpmvrG0G7L_B1A?e=hKHx6w",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Visite en entreprise",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+      "1e",
+      "5b",
+      "7a"
+    ]
+  },
+  {
+    "name":"Soie",
+    "planning":"hors-planning",
+    "project":"Remise à niveau",
+    "sequence":"BOITE A OUTIL",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"L'IA donne le LA",
+    "planning":"hors-planning",
+    "project":"Remise à niveau",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"acquisition de compétences",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Les discrimination",
+    "planning":"hors-planning",
+    "project":"Socialisation",
+    "sequence":"BOITE A OUTIL",
+    "mode":null,
+    "target":"agir en collectif",
+    "path":null,
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Mini EP3A",
+    "planning":"hors-planning",
+    "project":"Remise à niveau",
+    "sequence":"BOITE A OUTIL",
+    "mode":"sous-groupe",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/r\/sites\/E2CRessourcesPdagogiques\/_layouts\/15\/Doc.aspx?sourcedoc=%7BF4C6DE7E-B035-49A2-94CC-B93D9731DFC0%7D&file=DF%20-%20Mini%20EP3A.docx&action=default&mobileredirect=true",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Retour APC SAS",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"INTEGRATION",
+    "mode":"mixte",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQDVGn8rjLC4SI7NOrzUurS9AUzCJg8drUvc8YBXDcrcCng?e=XmphuW",
+    "skills":[
+      "7c"
+    ]
+  },
+  {
+    "name":"SAS - Clôture",
+    "planning":"planning",
+    "project":"Suivi individuel",
+    "sequence":"INTEGRATION",
+    "mode":"mixte",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQDxN9-Yvt3dSY9m8E4LH1IGARHVoNSPSeImEGMysqmbYzk?e=cNCeT7",
+    "skills":[
+      "1e",
+      "4b",
+      "5c",
+      "6a"
+    ]
+  },
+  {
+    "name":"SAS - World Café des métiers",
+    "planning":"planning",
+    "project":"Entreprise",
+    "sequence":"INTEGRATION",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQDxN9-Yvt3dSY9m8E4LH1IGARHVoNSPSeImEGMysqmbYzk?e=cNCeT7",
+    "skills":[
+      "1c",
+      "5a",
+      "6c",
+      "8c"
+    ]
+  },
+  {
+    "name":"SAS - Meurtre à la chocolaterie (LM)",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"INTEGRATION",
+    "mode":"sous-groupe",
+    "target":"construire son projet professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgCHRIKonOgvS5b0RIadkSt1ARbdn2WbCs5xBWiQ08FxLMQ?e=dZS3OC",
+    "skills":[
+      "1b",
+      "1e",
+      "5a",
+      "6a"
+    ]
+  },
+  {
+    "name":"SAS - Dynamique et Corps",
+    "planning":"planning",
+    "project":"Socialisation",
+    "sequence":"INTEGRATION",
+    "mode":"collectif",
+    "target":"agir en collectif",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQDxN9-Yvt3dSY9m8E4LH1IGARHVoNSPSeImEGMysqmbYzk?e=cNCeT7",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"SAS - Ma semaine idéale",
+    "planning":"planning",
+    "project":"Connaissance de soi",
+    "sequence":"INTEGRATION",
+    "mode":"individuel",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQDxN9-Yvt3dSY9m8E4LH1IGARHVoNSPSeImEGMysqmbYzk?e=cNCeT7",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"SAS - Engagement",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"INTEGRATION",
+    "mode":"mixte",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQDxN9-Yvt3dSY9m8E4LH1IGARHVoNSPSeImEGMysqmbYzk?e=cNCeT7",
+    "skills":[
+      "4a",
+      "4c",
+      "5b",
+      "6c"
+    ]
+  },
+  {
+    "name":"SAS - Intelligence émotionnelle",
+    "planning":"planning",
+    "project":"Connaissance de soi",
+    "sequence":"INTEGRATION",
+    "mode":"mixte",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQDxN9-Yvt3dSY9m8E4LH1IGARHVoNSPSeImEGMysqmbYzk?e=cNCeT7",
+    "skills":[
+      "1c",
+      "4b",
+      "6a",
+      "6b"
+    ]
+  },
+  {
+    "name":"SAS - Le contrat idéal",
+    "planning":"planning",
+    "project":"Connaissance de soi",
+    "sequence":"INTEGRATION",
+    "mode":"mixte",
+    "target":"connaissance de soi",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQDxN9-Yvt3dSY9m8E4LH1IGARHVoNSPSeImEGMysqmbYzk?e=cNCeT7",
+    "skills":[
+      "4a",
+      "4b",
+      "5a",
+      "6a"
+    ]
+  },
+  {
+    "name":"Visite Organisme de formation",
+    "planning":"planning",
+    "project":"Projet professionnel",
+    "sequence":"SOCLE",
+    "mode":"collectif",
+    "target":"connaissance du monde professionnel",
+    "path":null,
+    "skills":[
+      "1e",
+      "5c",
+      "7a"
+    ]
+  },
+  {
+    "name":"Pitch 1",
+    "planning":"hors-planning",
+    "project":"Entreprise",
+    "sequence":"PM - Commerce",
+    "mode":"collectif",
+    "target":"communication",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQCoTRfXn1e7Q7JdYdgeaeCVAeLdOSCXNMvPGHjfaBBalpI?e=4YkQyZ",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Pitch 2",
+    "planning":"hors-planning",
+    "project":"Entreprise",
+    "sequence":"PM - Commerce",
+    "mode":"collectif",
+    "target":"communication",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQBmR3DOwT4LRqOnsmwIhOkxAWRUGx7bMacFkHFuXHV8qL8?e=6kS7X5",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Pitch 3",
+    "planning":"hors-planning",
+    "project":"Entreprise",
+    "sequence":"PM - Commerce",
+    "mode":"collectif",
+    "target":"communication",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQA_z9Ve8G8MQLwyaGkvYH4cAepcqaA5uFJE8v4hSFZ5a_c?e=qVy1Rg",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Linkedin création d'un réseau",
+    "planning":"hors-planning",
+    "project":"Entreprise",
+    "sequence":"BOITE A OUTIL",
+    "mode":"mixte",
+    "target":"connaissance du monde professionnel",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:f:\/s\/E2CRessourcesPdagogiques\/IgAX-0us_kwfS6n76GEOF77hAcfEaXB3l19PiEAWHxppXQ4?e=qJAviQ",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Budget Parcours Commerce",
+    "planning":"hors-planning",
+    "project":"Remise à niveau",
+    "sequence":"PM - Commerce",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:x:\/s\/E2CRessourcesPdagogiques\/IQBIvV1cjXLYS7ScDjeLh3zVATgDfiTaSAwBLNEjy1xemQI?e=ZO8DPZ",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Facture Parcours Commerce",
+    "planning":"hors-planning",
+    "project":"Remise à niveau",
+    "sequence":"PM - Commerce",
+    "mode":"individuel",
+    "target":"acquisition de compétences",
+    "path":"https:\/\/e2cgrandlille.sharepoint.com\/:x:\/s\/E2CRessourcesPdagogiques\/IQDZ7OHq_DE0QaCMsR1vmZ3qAcgZcNh69rNplI87iRXP44c?e=XIcIA5",
+    "skills":[
+
+    ]
+  },
+  {
+    "name":"Entretien d'orientation",
+    "planning":"hors-planning",
+    "project":"Projet professionnel",
+    "sequence":"BOITE A OUTIL",
+    "mode":"individuel",
+    "target":"construire son projet professionnel",
+    "path":null,
+    "skills":[
+
+    ]
+  }
+]
