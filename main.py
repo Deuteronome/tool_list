@@ -14,21 +14,30 @@ warnings.filterwarnings(
 )
 
 df = pd.read_excel('./src/catalogueOutils.xlsx')
+print(df.axes)
 df = df.drop(columns=['type de contenu', 'étape parcours','Socle', 'Créé dans Up2C',
-       'A jour dans Up2C', 'Besoin RH', 'Besoin ordi', 'besoin matériel','A jour dans Sharepoint',
-       'compétences', 'Unnamed: 17'])
+       'A jour dans Up2C', 'Besoin RH', 'Besoin ordi', 'besoin matériel', 'Axe','A jour dans Sharepoint',
+       'compétences'])
 df = df.rename(columns={'Nom de l\'outil':'name', 'programmation':'planning', 'up2c-projet':'project', 'up2c-séquence':'sequence',
-       'modalité':'mode', 'objectifs généraux':'target', 'chemin':'path'})
+       'modalité':'mode', 'objectifs généraux':'target', 'chemin_form':'path_form', 'chemin_stag':'path_stag'})
+
 
 wb = load_workbook('./src/catalogueOutils.xlsx')
 ws = wb ["catalogue"]
 
 urls = []
 
-for cell in ws["O"][1:]:
+for cell in ws["R"][1:]:
     urls.append(cell.hyperlink.target if cell.hyperlink else None)
 
-df["path"] = urls
+df["path_form"] = urls
+
+urls = []
+
+for cell in ws["S"][1:]:
+    urls.append(cell.hyperlink.target if cell.hyperlink else None)
+
+df["path_stag"] = urls
 
 
 apc_sheets = [
@@ -39,6 +48,7 @@ apc_sheets = [
 ]
 
 skills_map = {}
+needs_map = {}
 
 for sheet in apc_sheets:
 
@@ -55,6 +65,8 @@ for sheet in apc_sheets:
         and col[0].isdigit()
     ]
 
+    need_cols = apc.columns[39:70]
+
     for _, row in apc.iterrows():
 
         activity = row["Séances"]
@@ -68,23 +80,40 @@ for sheet in apc_sheets:
             if str(row[skill]).strip().lower() == "oui"
         ]
 
+        needs = [
+            need
+            for need in need_cols
+            if str(row[need]).strip().lower() == "oui"
+        ]
+
         skills_map[str(activity).strip()] = skills
+        needs_map[activity] = needs
 
 
 df["skills"] = (
     df["name"]
-    .astype(str)
-    .str.strip()
-    .map(skills_map)
+        .astype(str)
+        .str.strip()
+        .map(skills_map)
 )
 
-
+df["needs"] = (
+    df["name"]
+        .astype(str)
+        .str.strip()
+        .map(needs_map)
+)
 
 df["skills"] = df["skills"].apply(
     lambda x: x if isinstance(x, list) else []
 )
 
+df["needs"] = df["needs"].apply(
+    lambda x: x if isinstance(x, list) else []
+)
+
 #df.to_csv('./output/tools.csv', index=False)
+"""
 
 df_stud = pd.read_excel('./src/stagiaires.xlsx')
 
@@ -180,7 +209,9 @@ roles = ('USER_REF', 'USER_COORD')
 df_staff = df_staff[df_staff['role'].isin(roles)]
 
 #df_staff.to_csv('./output/staff.csv', index=False)
+"""
 
+df = df.dropna(subset=["keycode"])
 df.to_json(
     './output/tools.json',
     orient='records',
@@ -188,6 +219,7 @@ df.to_json(
     indent=2
 )
 
+"""
 df_stud.to_json(
     './output/students.json',
     orient='records',
@@ -202,3 +234,4 @@ df_staff.to_json(
     force_ascii=False,
     indent=2
 )
+"""
