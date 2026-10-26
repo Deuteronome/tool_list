@@ -1,6 +1,7 @@
 [
   {
     "email":"a.picart@e2c-grandlille.fr",
+    "m365ID":"96fb685c-89af-4747-842a-dcc12bf50272",
     "firstname":"Agnès",
     "lastname":"PICART",
     "role":"USER_COORD",
@@ -9,6 +10,7 @@
   },
   {
     "email":"a.arnaud@e2c-grandlille.fr",
+    "m365ID":"b4019290-f4bc-412e-a578-71e40d0e2536",
     "firstname":"Alexia",
     "lastname":"ARNAUD",
     "role":"USER_REF",
@@ -17,6 +19,7 @@
   },
   {
     "email":"a.cathelain@e2c-grandlille.fr",
+    "m365ID":"9fd208b1-a7ef-45f3-a817-9281bd3a65e4",
     "firstname":"Amélie",
     "lastname":"CATHELAIN",
     "role":"USER_COORD",
@@ -25,6 +28,7 @@
   },
   {
     "email":"a.capeau@e2c-grandlille.fr",
+    "m365ID":"48272555-1023-4c22-964b-c45fd58aa5ac",
     "firstname":"Anne",
     "lastname":"CAPEAU",
     "role":"USER_REF",
@@ -33,6 +37,7 @@
   },
   {
     "email":"b.roziau@e2c-grandlille.fr",
+    "m365ID":"b1a2dd92-b3cd-4506-94f4-eb87efbaa3e4",
     "firstname":"Bénédicte",
     "lastname":"ROZIAU",
     "role":"USER_REF",
@@ -41,6 +46,7 @@
   },
   {
     "email":"c.peau@e2c-grandlille.fr",
+    "m365ID":"b9347b4b-3051-4fca-ad30-3b89faf168aa",
     "firstname":"Camille",
     "lastname":"PEAU",
     "role":"USER_REF",
@@ -49,6 +55,7 @@
   },
   {
     "email":"c.lecerf@e2c-grandlille.fr",
+    "m365ID":"9b0448b9-5a5f-4516-81db-5e906dfbce37",
     "firstname":"Cécile",
     "lastname":"LECERF",
     "role":"USER_REF",
@@ -57,6 +64,7 @@
   },
   {
     "email":"c.lambet@e2c-grandlille.fr",
+    "m365ID":"aa8df84b-2a1f-4ff8-98ef-a0228197ae7b",
     "firstname":"Christine",
     "lastname":"LAMBET",
     "role":"USER_COORD",
@@ -65,6 +73,7 @@
   },
   {
     "email":"c.benkhalil@e2c-grandlille.fr",
+    "m365ID":"4815262a-f796-49f7-b1f4-d07ed15be9c4",
     "firstname":"Coralie",
     "lastname":"BENKHALIL",
     "role":"USER_REF",
@@ -73,6 +82,7 @@
   },
   {
     "email":"d.kimpe@e2c-grandlille.fr",
+    "m365ID":"45b4e103-974e-402e-8fe2-da7d8c156938",
     "firstname":"David",
     "lastname":"KIMPE",
     "role":"USER_REF",
@@ -81,6 +91,7 @@
   },
   {
     "email":"d.caron@e2c-grandlille.fr",
+    "m365ID":"b1296c2d-56a4-473f-9c23-f31d3bb649a9",
     "firstname":"Delphine",
     "lastname":"Caron",
     "role":"USER_REF",
@@ -89,6 +100,7 @@
   },
   {
     "email":"d.hudelle@e2c-grandlille.fr",
+    "m365ID":"77d8f9c0-e069-4afd-8893-bd5642c22952",
     "firstname":"Delphine",
     "lastname":"HUDELLE",
     "role":"USER_REF",
@@ -97,6 +109,7 @@
   },
   {
     "email":"d.pasquier@e2c-grandlille.fr",
+    "m365ID":"4423b4d7-6bcc-4e47-97f1-17fd05393034",
     "firstname":"Delphine",
     "lastname":"Pasquier",
     "role":"USER_REF",
@@ -105,6 +118,7 @@
   },
   {
     "email":"e.dewitte@e2c-grandlille.fr",
+    "m365ID":"a5d6b558-bae4-444b-a08e-ed09eea10594",
     "firstname":"Eglantine",
     "lastname":"DEWITTE",
     "role":"USER_COORD",
@@ -113,6 +127,7 @@
   },
   {
     "email":"e.benzarb@e2c-grandlille.fr",
+    "m365ID":"56789d14-f1a7-481e-9ef4-19e96fa48ec7",
     "firstname":"Ezzeddine",
     "lastname":"BEN ZARB",
     "role":"USER_COORD",
@@ -121,6 +136,7 @@
   },
   {
     "email":"f.dufour@e2c-grandlille.fr",
+    "m365ID":"160c1264-6ecc-49d8-8ae4-56e4474d8d5e",
     "firstname":"Fanny",
     "lastname":"DUFOUR",
     "role":"USER_REF",
@@ -129,6 +145,7 @@
   },
   {
     "email":"f.maunoury@e2c-grandlille.fr",
+    "m365ID":"df6df761-8b36-4644-bee3-92f67e8657c7",
     "firstname":"Franklin",
     "lastname":"MAUNOURY",
     "role":"USER_COORD",
@@ -137,6 +154,7 @@
   },
   {
     "email":"g.nowinski@e2c-grandlille.fr",
+    "m365ID":"0ac24745-28d7-4264-9add-ab2f9fd1bb0a",
     "firstname":"Gérard",
     "lastname":"NOWINSKI",
     "role":"USER_REF",
@@ -145,6 +163,7 @@
   },
   {
     "email":"g.leon-quero@e2c-grandlille.fr",
+    "m365ID":"3abc5bf4-3fd4-4bc0-8583-bc194b0fce8a",
     "firstname":"German",
     "lastname":"LEON-QUERO",
     "role":"USER_REF",
@@ -153,6 +172,7 @@
   },
   {
     "email":"g.guyo@e2c-grandlille.fr",
+    "m365ID":"64e91f49-98ae-46ac-b13e-fe7f44cd3a8f",
     "firstname":"Gwenaelle",
     "lastname":"GUYO",
     "role":"USER_REF",
@@ -161,6 +181,7 @@
   },
   {
     "email":"jp.decroix@e2c-grandlille.fr",
+    "m365ID":"a602c7b9-4259-46d5-86a1-256dc89168ae",
     "firstname":"Jean-Pierre",
     "lastname":"DECROIX",
     "role":"USER_COORD",
@@ -169,6 +190,7 @@
   },
   {
     "email":"j.degori@e2c-grandlille.fr",
+    "m365ID":"fd8cf6fc-efba-4dac-80fa-6bcda012692e",
     "firstname":"Jeanne",
     "lastname":"DE GORI",
     "role":"USER_REF",
@@ -177,6 +199,7 @@
   },
   {
     "email":"j.bolpaire@e2c-grandlille.fr",
+    "m365ID":"2bd7c5ea-aae8-4b89-be48-69aea9b88fbb",
     "firstname":"Jérôme",
     "lastname":"BOLPAIRE",
     "role":"USER_COORD",
@@ -185,6 +208,7 @@
   },
   {
     "email":"j.matton@e2c-grandlille.fr",
+    "m365ID":"88b376f0-fb36-49b2-81c2-5baf0087a746",
     "firstname":"Julie",
     "lastname":"MATTON",
     "role":"USER_COORD",
@@ -193,6 +217,7 @@
   },
   {
     "email":"l.gris@e2c-grandlille.fr",
+    "m365ID":"a69a013a-4f28-4228-a4d7-0cb069bd0a02",
     "firstname":"Laurence",
     "lastname":"GRIS",
     "role":"USER_COORD",
@@ -201,6 +226,7 @@
   },
   {
     "email":"l.ducarme@e2c-grandlille.fr",
+    "m365ID":"b05694cb-0861-4ca4-8f05-7fa110069dfd",
     "firstname":"Loïc",
     "lastname":"DUCARME",
     "role":"USER_REF",
@@ -209,6 +235,7 @@
   },
   {
     "email":"l.dercourt@e2c-grandlille.fr",
+    "m365ID":"6f387b5a-aacf-4223-a414-9a5c21dcf878",
     "firstname":"Lucie",
     "lastname":"DERCOURT",
     "role":"USER_REF",
@@ -217,6 +244,7 @@
   },
   {
     "email":"l.millet@e2c-grandlille.fr",
+    "m365ID":"974bee23-fbb7-4b34-911a-78ebe6e370e3",
     "firstname":"Lucie",
     "lastname":"MILLET",
     "role":"USER_COORD",
@@ -225,6 +253,7 @@
   },
   {
     "email":"o.burcker@e2c-grandlille.fr",
+    "m365ID":"8f9c1ca2-54cf-4043-aa44-1e8cfc9894a0",
     "firstname":"Olivier",
     "lastname":"BURCKER",
     "role":"USER_COORD",
@@ -233,6 +262,7 @@
   },
   {
     "email":"r.colaccino@e2c-grandlille.fr",
+    "m365ID":"8cccce52-6b45-4f24-9275-1f79da550ebf",
     "firstname":"Rosetta",
     "lastname":"COLACCINO",
     "role":"USER_REF",
@@ -241,6 +271,7 @@
   },
   {
     "email":"s.selam@e2c-grandlille.fr",
+    "m365ID":"5656314e-1c95-4832-8154-268a3b3e7e8f",
     "firstname":"Sabah",
     "lastname":"SELAM",
     "role":"USER_REF",
@@ -249,6 +280,7 @@
   },
   {
     "email":"s.morvan@e2c-grandlille.fr",
+    "m365ID":"27bfcaa5-f0ea-4ec4-aa41-033da0c28659",
     "firstname":"Sarah",
     "lastname":"MORVAN",
     "role":"USER_REF",
@@ -257,6 +289,7 @@
   },
   {
     "email":"s.jamil-hussain@e2c-grandlille.fr",
+    "m365ID":"f561c727-25a7-4b38-9be3-01d0deedaad5",
     "firstname":"Sura",
     "lastname":"JAMIL-HUSSAIN",
     "role":"USER_REF",
@@ -265,6 +298,7 @@
   },
   {
     "email":"t.jacob@e2c-grandlille.fr",
+    "m365ID":"6dd43452-05f6-46b2-8a95-cb3bbdc709a8",
     "firstname":"Thibault",
     "lastname":"JACOB",
     "role":"USER_COORD",
@@ -273,6 +307,7 @@
   },
   {
     "email":"x.caroulle@e2c-grandlille.fr",
+    "m365ID":"05090d3b-be47-479f-98bc-602ccc1b0273",
     "firstname":"Xavier",
     "lastname":"CAROULLE",
     "role":"USER_COORD",

@@ -14,7 +14,7 @@ warnings.filterwarnings(
 )
 
 df = pd.read_excel('./src/catalogueOutils.xlsx')
-print(df.axes)
+#print(df.axes)
 df = df.drop(columns=['type de contenu', 'étape parcours','Socle', 'Créé dans Up2C',
        'A jour dans Up2C', 'Besoin RH', 'Besoin ordi', 'besoin matériel', 'Axe','A jour dans Sharepoint',
        'compétences'])
@@ -65,7 +65,7 @@ for sheet in apc_sheets:
         and col[0].isdigit()
     ]
 
-    need_cols = apc.columns[39:70]
+    need_cols = apc.columns[39:68]
 
     for _, row in apc.iterrows():
 
@@ -110,14 +110,15 @@ df["skills"] = df["skills"].apply(
 
 df["needs"] = df["needs"].apply(
     lambda x: x if isinstance(x, list) else []
+
 )
 
 #df.to_csv('./output/tools.csv', index=False)
-"""
+
 
 df_stud = pd.read_excel('./src/stagiaires.xlsx')
 
-df_stud = df_stud.drop(columns=['ID', 'Civilité', 'Téléphone', 'Type de contrats', 'Période',
+df_stud = df_stud.drop(columns=['Civilité', 'Téléphone', 'Type de contrats', 'Période',
        'Groupe', 'Parcours', 'Projet', 'Âge',
        'Âge à l\'entrée', 'Date de Naissance', 'Nom de Naissance',
        'Lieu de Naissance', 'Nationalité', 'Document d\'identité valide',
@@ -137,7 +138,7 @@ df_stud = df_stud.drop(columns=['ID', 'Civilité', 'Téléphone', 'Type de contr
        'Code Région (SoWeSign)', 'Date d\'inscription France Travail',
        'Numéro France Travail', 'Azure ID', 'Statut invitation Azure',
        'Projet professionnel final', 'mail alternatif'])
-df_stud = df_stud.rename(columns={'Nom':'lastname', 'Prénom':'firstname', 'Email':'email', 'École':'structure', 'Site':'site',
+df_stud = df_stud.rename(columns={'ID':'Up2cID', 'Nom':'lastname', 'Prénom':'firstname', 'Email':'email', 'École':'structure', 'Site':'site',
        'Projets professionnels':'project', 'Formateur Référent':'referent',
        'Date d\'entrée en formation':'starting_date', 'lien One Drive':'drive_path'})
 
@@ -156,14 +157,14 @@ df_stud.loc[
 #df_stud.to_csv('./output/students.csv', index=False)
 
 df_staff = pd.read_csv('./src/users.csv')
-df_staff = df_staff.drop(columns=['Display name', 'DirSyncEnabled', 'Object Id','When created', 'Soft deletion time stamp',
+df_staff = df_staff.drop(columns=['Display name', 'DirSyncEnabled', 'When created', 'Soft deletion time stamp',
        'AgeGroup', 'Department', 'Preferred data location',
        'CountryOrRegion', 'Office', 'StateOrProvince', 'Usage location',
        'Last dirsync time', 'Block credential', 'Licenses',
        'Password never expires', 'Last password change time stamp',
        'Mobile Phone', 'Phone number', 'Postal code', 'Preferred language',
        'Street address', 'Fax', 'Proxy addresses'])
-df_staff = df_staff.rename(columns={'User principal name' : 'email', 'First name':'firstname', 'Last name':'lastname',
+df_staff = df_staff.rename(columns={'Object Id':'m365ID','User principal name' : 'email', 'First name':'firstname', 'Last name':'lastname',
        'City' :'site', 'Title':'role'})
 df_staff["full_name"]=(df_staff['lastname'].str.strip().str.upper()+ " " + df_staff['firstname'])
 
@@ -209,7 +210,7 @@ roles = ('USER_REF', 'USER_COORD')
 df_staff = df_staff[df_staff['role'].isin(roles)]
 
 #df_staff.to_csv('./output/staff.csv', index=False)
-"""
+
 
 df = df.dropna(subset=["keycode"])
 df.to_json(
@@ -219,7 +220,7 @@ df.to_json(
     indent=2
 )
 
-"""
+
 df_stud.to_json(
     './output/students.json',
     orient='records',
@@ -234,4 +235,4 @@ df_staff.to_json(
     force_ascii=False,
     indent=2
 )
-"""
+

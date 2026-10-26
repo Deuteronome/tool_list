@@ -17,15 +17,8 @@
       "5a"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Écoute et compréhension",
-      "Organisation personnelle",
-      "Autonomie dans les démarches",
-      "Expérience en entreprise",
-      "Choix et décision",
-      "Sécurisation du parcours",
-      "Initiative",
-      "Responsabilisation"
+      "Se sentir écouté",
+      "Emettre des hypothèses"
     ]
   },
   {
@@ -46,9 +39,7 @@
       "8b"
     ],
     "needs":[
-      "Écoute et compréhension",
-      "Exploration",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -69,11 +60,7 @@
       "8a"
     ],
     "needs":[
-      "Confiance en soi",
-      "Coopération",
-      "Sécurisation du parcours",
-      "Gestion des freins",
-      "Persévérance"
+
     ]
   },
   {
@@ -92,13 +79,7 @@
 
     ],
     "needs":[
-      "Communication orale",
-      "Communication écrite",
-      "Méthodes d’apprentissage",
-      "Élaboration du projet",
-      "Sécurisation du parcours",
-      "Responsabilisation",
-      "Persévérance"
+
     ]
   },
   {
@@ -119,10 +100,7 @@
       "6b"
     ],
     "needs":[
-      "Communication écrite",
-      "Sécurisation du parcours",
-      "Responsabilisation",
-      "Persévérance"
+
     ]
   },
   {
@@ -143,20 +121,7 @@
       "6a"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Communication orale",
-      "Communication professionnelle",
-      "Organisation personnelle",
-      "Autonomie dans les démarches",
-      "Codes professionnels",
-      "Expérience en entreprise",
-      "Choix et décision",
-      "Élaboration du projet",
-      "Recherche de stage, d’emploi ou de formation",
-      "Sécurisation du parcours",
-      "Responsabilisation",
-      "Gestion des freins",
-      "Persévérance"
+
     ]
   },
   {
@@ -177,16 +142,7 @@
       "6c"
     ],
     "needs":[
-      "Écoute et compréhension",
-      "Communication professionnelle",
-      "Gestion des relations",
-      "Méthodes d’apprentissage",
-      "Codes professionnels",
-      "Environnement socio-économique",
-      "Exploration",
-      "Recherche de stage, d’emploi ou de formation",
-      "Initiative",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -207,14 +163,7 @@
       "4c"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Confiance en soi",
-      "Gestion émotionnelle",
-      "Communication orale",
-      "Coopération",
-      "Exploration",
-      "Sécurisation du parcours",
-      "Gestion des freins"
+
     ]
   },
   {
@@ -235,14 +184,7 @@
       "4c"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Confiance en soi",
-      "Gestion émotionnelle",
-      "Communication orale",
-      "Coopération",
-      "Exploration",
-      "Sécurisation du parcours",
-      "Gestion des freins"
+
     ]
   },
   {
@@ -263,14 +205,7 @@
       "4c"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Confiance en soi",
-      "Gestion émotionnelle",
-      "Communication orale",
-      "Coopération",
-      "Exploration",
-      "Sécurisation du parcours",
-      "Gestion des freins"
+
     ]
   },
   {
@@ -291,17 +226,7 @@
       "5c"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Communication professionnelle",
-      "Autonomie dans les démarches",
-      "Codes professionnels",
-      "Expérience en entreprise",
-      "Environnement socio-économique",
-      "Choix et décision",
-      "Recherche de stage, d’emploi ou de formation",
-      "Initiative",
-      "Responsabilisation",
-      "Persévérance"
+
     ]
   },
   {
@@ -322,18 +247,7 @@
       "7a"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Communication orale",
-      "Écoute et compréhension",
-      "Organisation personnelle",
-      "Autonomie dans les démarches",
-      "Expérience en entreprise",
-      "Choix et décision",
-      "Élaboration du projet",
-      "Recherche de stage, d’emploi ou de formation",
-      "Sécurisation du parcours",
-      "Responsabilisation",
-      "Gestion des freins"
+
     ]
   },
   {
@@ -354,15 +268,7 @@
       "6b"
     ],
     "needs":[
-      "Communication écrite",
-      "Coopération",
-      "Méthodes d’apprentissage",
-      "Compétences de base",
-      "Choix et décision",
-      "Initiative",
-      "Responsabilisation",
-      "Persévérance",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -383,13 +289,7 @@
       "6b"
     ],
     "needs":[
-      "Communication orale",
-      "Écoute et compréhension",
-      "Coopération",
-      "Méthodes d’apprentissage",
-      "Compétences de base",
-      "Responsabilisation",
-      "Persévérance"
+
     ]
   },
   {
@@ -410,15 +310,7 @@
       "6b"
     ],
     "needs":[
-      "Gestion émotionnelle",
-      "Communication orale",
-      "Coopération",
-      "Méthodes d’apprentissage",
-      "Compétences de base",
-      "Initiative",
-      "Responsabilisation",
-      "Gestion des freins",
-      "Persévérance"
+
     ]
   },
   {
@@ -439,16 +331,7 @@
       "5c"
     ],
     "needs":[
-      "Écoute et compréhension",
-      "Vie de groupe",
-      "Méthodes d’apprentissage",
-      "Compétences de base",
-      "Choix et décision",
-      "Initiative",
-      "Responsabilisation",
-      "Gestion des freins",
-      "Persévérance",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -469,12 +352,7 @@
       "6b"
     ],
     "needs":[
-      "Communication écrite",
-      "Méthodes d’apprentissage",
-      "Compétences de base",
-      "Initiative",
-      "Responsabilisation",
-      "Persévérance"
+
     ]
   },
   {
@@ -495,10 +373,7 @@
       "6a"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Confiance en soi",
-      "Méthodes d’apprentissage",
-      "Gestion des freins"
+
     ]
   },
   {
@@ -519,11 +394,7 @@
       "7a"
     ],
     "needs":[
-      "Écoute et compréhension",
-      "Découverte des métiers",
-      "Fonctionnement des organisations",
-      "Élaboration du projet",
-      "Recherche de stage, d’emploi ou de formation"
+
     ]
   },
   {
@@ -535,8 +406,8 @@
     "mode":"individuel",
     "Autonomie":null,
     "Sujet":"J'y vais",
-    "path_form":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQD0owOFI5aBRLmC6Mnd6BNQAcf677FC7rfn2Egpl0gX7Yc?e=gv83tv",
-    "path_stag":"https:\/\/e2cgrandlille.sharepoint.com\/:b:\/s\/E2CRessourcesPdagogiques\/IQD0owOFI5aBRLmC6Mnd6BNQAcf677FC7rfn2Egpl0gX7Yc?download=1",
+    "path_form":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQB5tXVjs1FNSr0q2pvmGv_uAYmI7U-1Vp-qrqQRVMcyzkk?e=3iBBfP",
+    "path_stag":"https:\/\/e2cgrandlille.sharepoint.com\/:w:\/s\/E2CRessourcesPdagogiques\/IQB5tXVjs1FNSr0q2pvmGv_uAYmI7U-1Vp-qrqQRVMcyzkk?download=1",
     "Description":"Jury de validation du projet professionnel permettant aux participants de présenter leur parcours, leurs compétences, leurs motivations et leur projet d'avenir devant un jury, afin de démontrer la cohérence et la maturité de leur projet professionnel ou de formation.",
     "skills":[
       "1e",
@@ -544,22 +415,7 @@
       "6c"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Communication orale",
-      "Communication professionnelle",
-      "Organisation personnelle",
-      "Autonomie dans les démarches",
-      "Codes professionnels",
-      "Expérience en entreprise",
-      "Environnement socio-économique",
-      "Choix et décision",
-      "Élaboration du projet",
-      "Recherche de stage, d’emploi ou de formation",
-      "Sécurisation du parcours",
-      "Initiative",
-      "Responsabilisation",
-      "Gestion des freins",
-      "Persévérance"
+
     ]
   },
   {
@@ -580,13 +436,7 @@
       "6a"
     ],
     "needs":[
-      "Méthodes d’apprentissage",
-      "Fonctionnement des organisations",
-      "Environnement socio-économique",
-      "Exploration",
-      "Recherche de stage, d’emploi ou de formation",
-      "Responsabilisation",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -607,16 +457,7 @@
       "6b"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Confiance en soi",
-      "Communication écrite",
-      "Organisation personnelle",
-      "Découverte des métiers",
-      "Expérience en entreprise",
-      "Élaboration du projet",
-      "Sécurisation du parcours",
-      "Initiative",
-      "Persévérance"
+
     ]
   },
   {
@@ -637,17 +478,7 @@
       "6c"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Organisation personnelle",
-      "Autonomie dans les démarches",
-      "Expérience en entreprise",
-      "Environnement socio-économique",
-      "Choix et décision",
-      "Recherche de stage, d’emploi ou de formation",
-      "Initiative",
-      "Responsabilisation",
-      "Persévérance",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -668,17 +499,7 @@
       "6c"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Communication professionnelle",
-      "Organisation personnelle",
-      "Autonomie dans les démarches",
-      "Codes professionnels",
-      "Expérience en entreprise",
-      "Environnement socio-économique",
-      "Recherche de stage, d’emploi ou de formation",
-      "Sécurisation du parcours",
-      "Persévérance",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -699,14 +520,7 @@
       "5c"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Communication écrite",
-      "Méthodes d’apprentissage",
-      "Expérience en entreprise",
-      "Environnement socio-économique",
-      "Exploration",
-      "Choix et décision",
-      "Recherche de stage, d’emploi ou de formation"
+
     ]
   },
   {
@@ -727,13 +541,7 @@
       "5c"
     ],
     "needs":[
-      "Confiance en soi",
-      "Communication orale",
-      "Vie de groupe",
-      "Méthodes d’apprentissage",
-      "Codes professionnels",
-      "Expérience en entreprise",
-      "Initiative"
+
     ]
   },
   {
@@ -754,15 +562,7 @@
       "5c"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Communication professionnelle",
-      "Méthodes d’apprentissage",
-      "Découverte des métiers",
-      "Fonctionnement des organisations",
-      "Choix et décision",
-      "Élaboration du projet",
-      "Responsabilisation",
-      "Gestion des freins"
+
     ]
   },
   {
@@ -783,14 +583,7 @@
       "6a"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Motivation et engagement personnel",
-      "Méthodes d’apprentissage",
-      "Découverte des métiers",
-      "Exploration",
-      "Choix et décision",
-      "Élaboration du projet",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -811,16 +604,7 @@
       "6c"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Vie de groupe",
-      "Méthodes d’apprentissage",
-      "Autonomie dans les démarches",
-      "Choix et décision",
-      "Sécurisation du parcours",
-      "Initiative",
-      "Responsabilisation",
-      "Persévérance",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -841,15 +625,7 @@
       "6a"
     ],
     "needs":[
-      "Gestion émotionnelle",
-      "Communication orale",
-      "Communication professionnelle",
-      "Organisation personnelle",
-      "Codes professionnels",
-      "Recherche de stage, d’emploi ou de formation",
-      "Sécurisation du parcours",
-      "Gestion des freins",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -870,10 +646,7 @@
       "8c"
     ],
     "needs":[
-      "Communication orale",
-      "Citoyenneté",
-      "Environnement socio-économique",
-      "Exploration"
+
     ]
   },
   {
@@ -894,12 +667,7 @@
       "6a"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Confiance en soi",
-      "Vie de groupe",
-      "Coopération",
-      "Gestion des relations",
-      "Fonctionnement des organisations"
+
     ]
   },
   {
@@ -920,11 +688,7 @@
       "6b"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Communication orale",
-      "Vie de groupe",
-      "Coopération",
-      "Initiative"
+
     ]
   },
   {
@@ -945,12 +709,7 @@
       "7a"
     ],
     "needs":[
-      "Communication professionnelle",
-      "Découverte des métiers",
-      "Fonctionnement des organisations",
-      "Expérience en entreprise",
-      "Environnement socio-économique",
-      "Exploration"
+
     ]
   },
   {
@@ -971,10 +730,7 @@
       "6b"
     ],
     "needs":[
-      "Coopération",
-      "Organisation personnelle",
-      "Initiative",
-      "Responsabilisation"
+
     ]
   },
   {
@@ -995,11 +751,7 @@
       "7a"
     ],
     "needs":[
-      "Écoute et compréhension",
-      "Communication professionnelle",
-      "Découverte des métiers",
-      "Expérience en entreprise",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -1020,10 +772,7 @@
       "7d"
     ],
     "needs":[
-      "Organisation personnelle",
-      "Environnement socio-économique",
-      "Choix et décision",
-      "Élaboration du projet"
+
     ]
   },
   {
@@ -1044,10 +793,7 @@
       "7b"
     ],
     "needs":[
-      "Compétences de base",
-      "Organisation personnelle",
-      "Choix et décision",
-      "Élaboration du projet"
+
     ]
   },
   {
@@ -1068,10 +814,7 @@
       "5c"
     ],
     "needs":[
-      "Confiance en soi",
-      "Gestion émotionnelle",
-      "Communication orale",
-      "Communication professionnelle"
+
     ]
   },
   {
@@ -1092,10 +835,7 @@
       "6c"
     ],
     "needs":[
-      "Coopération",
-      "Organisation personnelle",
-      "Responsabilisation",
-      "Persévérance"
+
     ]
   },
   {
@@ -1116,10 +856,7 @@
       "5c"
     ],
     "needs":[
-      "Confiance en soi",
-      "Communication orale",
-      "Communication professionnelle",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -1138,10 +875,7 @@
 
     ],
     "needs":[
-      "Identité et image de soi",
-      "Motivation et engagement personnel",
-      "Communication orale",
-      "Élaboration du projet"
+
     ]
   },
   {
@@ -1162,7 +896,7 @@
       "6b"
     ],
     "needs":[
-      "Méthodes d’apprentissage"
+
     ]
   },
   {
@@ -1183,13 +917,7 @@
       "5c"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Gestion émotionnelle",
-      "Communication orale",
-      "Méthodes d’apprentissage",
-      "Codes professionnels",
-      "Sécurisation du parcours",
-      "Gestion des freins"
+
     ]
   },
   {
@@ -1210,12 +938,7 @@
       "4a"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Codes professionnels",
-      "Exploration",
-      "Sécurisation du parcours",
-      "Responsabilisation",
-      "Gestion des freins"
+
     ]
   },
   {
@@ -1236,12 +959,7 @@
       "4a"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Codes professionnels",
-      "Exploration",
-      "Sécurisation du parcours",
-      "Responsabilisation",
-      "Gestion des freins"
+
     ]
   },
   {
@@ -1262,7 +980,7 @@
       "5c"
     ],
     "needs":[
-      "Identité et image de soi"
+
     ]
   },
   {
@@ -1283,11 +1001,7 @@
       "6a"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Confiance en soi",
-      "Gestion émotionnelle",
-      "Sécurisation du parcours",
-      "Gestion des freins"
+
     ]
   },
   {
@@ -1309,9 +1023,7 @@
       "7d"
     ],
     "needs":[
-      "Communication écrite",
-      "Communication professionnelle",
-      "Recherche de stage, d’emploi ou de formation"
+
     ]
   },
   {
@@ -1332,11 +1044,7 @@
       "5b"
     ],
     "needs":[
-      "Communication écrite",
-      "Communication professionnelle",
-      "Compétences de base",
-      "Codes professionnels",
-      "Recherche de stage, d’emploi ou de formation"
+
     ]
   },
   {
@@ -1358,16 +1066,7 @@
       "6c"
     ],
     "needs":[
-      "Communication orale",
-      "Communication professionnelle",
-      "Organisation personnelle",
-      "Autonomie dans les démarches",
-      "Fonctionnement des organisations",
-      "Expérience en entreprise",
-      "Environnement socio-économique",
-      "Recherche de stage, d’emploi ou de formation",
-      "Initiative",
-      "Responsabilisation"
+
     ]
   },
   {
@@ -1388,9 +1087,7 @@
       "7a"
     ],
     "needs":[
-      "Fonctionnement des organisations",
-      "Exploration",
-      "Recherche de stage, d’emploi ou de formation"
+
     ]
   },
   {
@@ -1411,15 +1108,7 @@
       "5c"
     ],
     "needs":[
-      "Communication orale",
-      "Communication professionnelle",
-      "Vie de groupe",
-      "Gestion des relations",
-      "Autonomie dans les démarches",
-      "Fonctionnement des organisations",
-      "Codes professionnels",
-      "Recherche de stage, d’emploi ou de formation",
-      "Initiative"
+
     ]
   },
   {
@@ -1440,9 +1129,7 @@
       "7b"
     ],
     "needs":[
-      "Écoute et compréhension",
-      "Coopération",
-      "Autonomie dans les démarches"
+
     ]
   },
   {
@@ -1463,10 +1150,7 @@
       "5c"
     ],
     "needs":[
-      "Environnement socio-économique",
-      "Choix et décision",
-      "Recherche de stage, d’emploi ou de formation",
-      "Responsabilisation"
+
     ]
   },
   {
@@ -1487,8 +1171,7 @@
       "8c"
     ],
     "needs":[
-      "Organisation personnelle",
-      "Codes professionnels"
+
     ]
   },
   {
@@ -1509,9 +1192,7 @@
       "5c"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Exploration",
-      "Élaboration du projet"
+
     ]
   },
   {
@@ -1532,9 +1213,7 @@
       "6c"
     ],
     "needs":[
-      "Découverte des métiers",
-      "Environnement socio-économique",
-      "Élaboration du projet"
+
     ]
   },
   {
@@ -1555,8 +1234,7 @@
       "2c"
     ],
     "needs":[
-      "Méthodes d’apprentissage",
-      "Compétences de base"
+
     ]
   },
   {
@@ -1579,11 +1257,7 @@
       "9c"
     ],
     "needs":[
-      "Confiance en soi",
-      "Vie de groupe",
-      "Coopération",
-      "Citoyenneté",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -1605,9 +1279,7 @@
       "8c"
     ],
     "needs":[
-      "Sécurisation du parcours",
-      "Responsabilisation",
-      "Gestion des freins"
+
     ]
   },
   {
@@ -1628,7 +1300,7 @@
       "6b"
     ],
     "needs":[
-      "Coopération"
+
     ]
   },
   {
@@ -1649,9 +1321,7 @@
       "7a"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Confiance en soi",
-      "Coopération"
+
     ]
   },
   {
@@ -1672,18 +1342,7 @@
       "6a"
     ],
     "needs":[
-      "Confiance en soi",
-      "Motivation et engagement personnel",
-      "Communication écrite",
-      "Communication professionnelle",
-      "Organisation personnelle",
-      "Découverte des métiers",
-      "Expérience en entreprise",
-      "Élaboration du projet",
-      "Recherche de stage, d’emploi ou de formation",
-      "Sécurisation du parcours",
-      "Initiative",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -1704,12 +1363,7 @@
       "7c"
     ],
     "needs":[
-      "Organisation personnelle",
-      "Autonomie dans les démarches",
-      "Fonctionnement des organisations",
-      "Initiative",
-      "Responsabilisation",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -1730,13 +1384,7 @@
       "4c"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Communication orale",
-      "Vie de groupe",
-      "Coopération",
-      "Exploration",
-      "Choix et décision",
-      "Persévérance"
+
     ]
   },
   {
@@ -1757,12 +1405,7 @@
       "7a"
     ],
     "needs":[
-      "Vie de groupe",
-      "Découverte des métiers",
-      "Fonctionnement des organisations",
-      "Environnement socio-économique",
-      "Exploration",
-      "Persévérance"
+
     ]
   },
   {
@@ -1783,13 +1426,7 @@
       "5b"
     ],
     "needs":[
-      "Communication professionnelle",
-      "Vie de groupe",
-      "Découverte des métiers",
-      "Fonctionnement des organisations",
-      "Codes professionnels",
-      "Recherche de stage, d’emploi ou de formation",
-      "Persévérance"
+
     ]
   },
   {
@@ -1810,15 +1447,7 @@
       "6c"
     ],
     "needs":[
-      "Confiance en soi",
-      "Gestion émotionnelle",
-      "Communication orale",
-      "Écoute et compréhension",
-      "Communication professionnelle",
-      "Vie de groupe",
-      "Codes professionnels",
-      "Recherche de stage, d’emploi ou de formation",
-      "Persévérance"
+
     ]
   },
   {
@@ -1839,13 +1468,7 @@
       "7b"
     ],
     "needs":[
-      "Communication professionnelle",
-      "Vie de groupe",
-      "Coopération",
-      "Organisation personnelle",
-      "Initiative",
-      "Responsabilisation",
-      "Persévérance"
+
     ]
   },
   {
@@ -1866,11 +1489,7 @@
       "6a"
     ],
     "needs":[
-      "Communication orale",
-      "Communication professionnelle",
-      "Vie de groupe",
-      "Persévérance",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -1891,13 +1510,7 @@
       "6c"
     ],
     "needs":[
-      "Communication professionnelle",
-      "Codes professionnels",
-      "Recherche de stage, d’emploi ou de formation",
-      "Sécurisation du parcours",
-      "Gestion des freins",
-      "Persévérance",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -1920,11 +1533,7 @@
       "6a"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Motivation et engagement personnel",
-      "Choix et décision",
-      "Élaboration du projet",
-      "Sécurisation du parcours"
+
     ]
   },
   {
@@ -1945,10 +1554,7 @@
       "5b"
     ],
     "needs":[
-      "Communication écrite",
-      "Communication professionnelle",
-      "Autonomie dans les démarches",
-      "Recherche de stage, d’emploi ou de formation"
+
     ]
   },
   {
@@ -1968,11 +1574,7 @@
       "5c"
     ],
     "needs":[
-      "Environnement socio-économique",
-      "Exploration",
-      "Choix et décision",
-      "Élaboration du projet",
-      "Sécurisation du parcours"
+
     ]
   },
   {
@@ -1993,11 +1595,7 @@
       "3c"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Compétences de base",
-      "Organisation personnelle",
-      "Responsabilisation",
-      "Gestion des freins"
+
     ]
   },
   {
@@ -2018,12 +1616,7 @@
       "8c"
     ],
     "needs":[
-      "Communication orale",
-      "Vie de groupe",
-      "Citoyenneté",
-      "Choix et décision",
-      "Sécurisation du parcours",
-      "Responsabilisation"
+
     ]
   },
   {
@@ -2044,11 +1637,7 @@
       "6c"
     ],
     "needs":[
-      "Communication professionnelle",
-      "Découverte des métiers",
-      "Expérience en entreprise",
-      "Exploration",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -2069,11 +1658,7 @@
       "1c"
     ],
     "needs":[
-      "Confiance en soi",
-      "Gestion émotionnelle",
-      "Gestion des relations",
-      "Responsabilisation",
-      "Gestion des freins"
+
     ]
   },
   {
@@ -2094,14 +1679,7 @@
       "3c"
     ],
     "needs":[
-      "Confiance en soi",
-      "Communication écrite",
-      "Communication professionnelle",
-      "Méthodes d’apprentissage",
-      "Organisation personnelle",
-      "Autonomie dans les démarches",
-      "Initiative",
-      "Responsabilisation"
+
     ]
   },
   {
@@ -2122,10 +1700,7 @@
       "3d"
     ],
     "needs":[
-      "Citoyenneté",
-      "Méthodes d’apprentissage",
-      "Découverte des métiers",
-      "Exploration"
+
     ]
   },
   {
@@ -2146,10 +1721,7 @@
       "7d"
     ],
     "needs":[
-      "Communication orale",
-      "Coopération",
-      "Citoyenneté",
-      "Environnement socio-économique"
+
     ]
   },
   {
@@ -2170,11 +1742,7 @@
       "4c"
     ],
     "needs":[
-      "Coopération",
-      "Compétences de base",
-      "Organisation personnelle",
-      "Fonctionnement des organisations",
-      "Environnement socio-économique"
+
     ]
   },
   {
@@ -2195,8 +1763,7 @@
       "7d"
     ],
     "needs":[
-      "Citoyenneté",
-      "Environnement socio-économique"
+
     ]
   },
   {
@@ -2217,9 +1784,7 @@
       "6b"
     ],
     "needs":[
-      "Coopération",
-      "Découverte des métiers",
-      "Codes professionnels"
+
     ]
   },
   {
@@ -2240,10 +1805,7 @@
       "3c"
     ],
     "needs":[
-      "Communication orale",
-      "Découverte des métiers",
-      "Exploration",
-      "Initiative"
+
     ]
   },
   {
@@ -2264,9 +1826,7 @@
       "4a"
     ],
     "needs":[
-      "Communication professionnelle",
-      "Compétences de base",
-      "Découverte des métiers"
+
     ]
   },
   {
@@ -2287,8 +1847,7 @@
       "7b"
     ],
     "needs":[
-      "Codes professionnels",
-      "Responsabilisation"
+
     ]
   },
   {
@@ -2309,15 +1868,7 @@
       "6a"
     ],
     "needs":[
-      "Confiance en soi",
-      "Communication orale",
-      "Communication écrite",
-      "Coopération",
-      "Organisation personnelle",
-      "Autonomie dans les démarches",
-      "Élaboration du projet",
-      "Sécurisation du parcours",
-      "Initiative"
+
     ]
   },
   {
@@ -2359,7 +1910,7 @@
       "2c"
     ],
     "needs":[
-      "Compétences de base"
+
     ]
   },
   {
@@ -2380,19 +1931,7 @@
       "6b"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Confiance en soi",
-      "Motivation et engagement personnel",
-      "Communication écrite",
-      "Méthodes d’apprentissage",
-      "Compétences de base",
-      "Organisation personnelle",
-      "Autonomie dans les démarches",
-      "Exploration",
-      "Choix et décision",
-      "Élaboration du projet",
-      "Recherche de stage, d’emploi ou de formation",
-      "Sécurisation du parcours"
+
     ]
   },
   {
@@ -2434,10 +1973,7 @@
       "1e"
     ],
     "needs":[
-      "Communication orale",
-      "Communication écrite",
-      "Coopération",
-      "Méthodes d’apprentissage"
+
     ]
   },
   {
@@ -2458,17 +1994,7 @@
       "5a"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Coopération",
-      "Gestion des relations",
-      "Découverte des métiers",
-      "Fonctionnement des organisations",
-      "Environnement socio-économique",
-      "Exploration",
-      "Choix et décision",
-      "Élaboration du projet",
-      "Recherche de stage, d’emploi ou de formation",
-      "Sécurisation du parcours"
+
     ]
   },
   {
@@ -2489,8 +2015,7 @@
       "7b"
     ],
     "needs":[
-      "Codes professionnels",
-      "Responsabilisation"
+
     ]
   },
   {
@@ -2511,13 +2036,7 @@
       "5a"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Motivation et engagement personnel",
-      "Coopération",
-      "Gestion des relations",
-      "Citoyenneté",
-      "Choix et décision",
-      "Élaboration du projet"
+
     ]
   },
   {
@@ -2538,9 +2057,7 @@
       "4c"
     ],
     "needs":[
-      "Coopération",
-      "Méthodes d’apprentissage",
-      "Découverte des métiers"
+
     ]
   },
   {
@@ -2561,13 +2078,7 @@
       "7a"
     ],
     "needs":[
-      "Communication orale",
-      "Communication écrite",
-      "Communication professionnelle",
-      "Gestion des relations",
-      "Fonctionnement des organisations",
-      "Codes professionnels",
-      "Responsabilisation"
+
     ]
   },
   {
@@ -2588,15 +2099,7 @@
       "1c"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Confiance en soi",
-      "Communication orale",
-      "Communication professionnelle",
-      "Gestion des relations",
-      "Découverte des métiers",
-      "Fonctionnement des organisations",
-      "Codes professionnels",
-      "Responsabilisation"
+
     ]
   },
   {
@@ -2617,10 +2120,7 @@
       "7a"
     ],
     "needs":[
-      "Communication professionnelle",
-      "Méthodes d’apprentissage",
-      "Compétences de base",
-      "Codes professionnels"
+
     ]
   },
   {
@@ -2641,8 +2141,7 @@
       "1d"
     ],
     "needs":[
-      "Communication orale",
-      "Communication écrite"
+
     ]
   },
   {
@@ -2663,13 +2162,7 @@
       "1e"
     ],
     "needs":[
-      "Confiance en soi",
-      "Gestion émotionnelle",
-      "Communication orale",
-      "Écoute et compréhension",
-      "Communication professionnelle",
-      "Vie de groupe",
-      "Gestion des relations"
+
     ]
   },
   {
@@ -2690,10 +2183,7 @@
       "7b"
     ],
     "needs":[
-      "Méthodes d’apprentissage",
-      "Compétences de base",
-      "Autonomie dans les démarches",
-      "Responsabilisation"
+
     ]
   },
   {
@@ -2714,8 +2204,7 @@
       "3d"
     ],
     "needs":[
-      "Organisation personnelle",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -2736,13 +2225,7 @@
       "6c"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Organisation personnelle",
-      "Autonomie dans les démarches",
-      "Choix et décision",
-      "Recherche de stage, d’emploi ou de formation",
-      "Persévérance",
-      "Mobilisation des ressources"
+
     ]
   },
   {
@@ -2763,17 +2246,11 @@
       "7a"
     ],
     "needs":[
-      "Écoute et compréhension",
-      "Fonctionnement des organisations",
-      "Codes professionnels",
-      "Environnement socio-économique",
-      "Élaboration du projet",
-      "Sécurisation du parcours",
-      "Mobilisation des ressources"
+
     ]
   },
   {
-    "keycode":"GL-0366",
+    "keycode":"GL-0365",
     "name":"Retour APC SAS",
     "planning":"planning",
     "project":"Suivi individuel",
@@ -2788,12 +2265,11 @@
       "7c"
     ],
     "needs":[
-      "Responsabilisation",
-      "Persévérance"
+
     ]
   },
   {
-    "keycode":"GL-0367",
+    "keycode":"GL-0366",
     "name":"SAS - Clôture",
     "planning":"planning",
     "project":"Suivi individuel",
@@ -2815,7 +2291,7 @@
     ]
   },
   {
-    "keycode":"GL-0368",
+    "keycode":"GL-0367",
     "name":"SAS - World Café des métiers",
     "planning":"planning",
     "project":"Entreprise",
@@ -2833,16 +2309,11 @@
       "8c"
     ],
     "needs":[
-      "Communication orale",
-      "Découverte des métiers",
-      "Environnement socio-économique",
-      "Exploration",
-      "Choix et décision",
-      "Mobilisation des ressources"
+
     ]
   },
   {
-    "keycode":"GL-0369",
+    "keycode":"GL-0368",
     "name":"SAS - Meurtre à la chocolaterie (LM)",
     "planning":"planning",
     "project":"Projet professionnel",
@@ -2860,12 +2331,11 @@
       "6a"
     ],
     "needs":[
-      "Coopération",
-      "Mobilisation des ressources"
+
     ]
   },
   {
-    "keycode":"GL-0370",
+    "keycode":"GL-0369",
     "name":"SAS - Dynamique et Corps",
     "planning":"planning",
     "project":"Socialisation",
@@ -2884,7 +2354,7 @@
     ]
   },
   {
-    "keycode":"GL-0371",
+    "keycode":"GL-0370",
     "name":"SAS - Ma semaine idéale",
     "planning":"planning",
     "project":"Connaissance de soi",
@@ -2903,7 +2373,7 @@
     ]
   },
   {
-    "keycode":"GL-0372",
+    "keycode":"GL-0371",
     "name":"SAS - Engagement",
     "planning":"planning",
     "project":"Projet professionnel",
@@ -2921,16 +2391,11 @@
       "6c"
     ],
     "needs":[
-      "Motivation et engagement personnel",
-      "Vie de groupe",
-      "Gestion des relations",
-      "Organisation personnelle",
-      "Sécurisation du parcours",
-      "Responsabilisation"
+
     ]
   },
   {
-    "keycode":"GL-0373",
+    "keycode":"GL-0372",
     "name":"SAS - Intelligence émotionnelle",
     "planning":"planning",
     "project":"Connaissance de soi",
@@ -2948,14 +2413,11 @@
       "6b"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Gestion émotionnelle",
-      "Écoute et compréhension",
-      "Gestion des freins"
+
     ]
   },
   {
-    "keycode":"GL-0374",
+    "keycode":"GL-0373",
     "name":"SAS - Le contrat idéal",
     "planning":"planning",
     "project":"Connaissance de soi",
@@ -2973,14 +2435,11 @@
       "6a"
     ],
     "needs":[
-      "Identité et image de soi",
-      "Motivation et engagement personnel",
-      "Communication professionnelle",
-      "Sécurisation du parcours"
+
     ]
   },
   {
-    "keycode":"GL-0375",
+    "keycode":"GL-0374",
     "name":"Visite Organisme de formation",
     "planning":"planning",
     "project":"Projet professionnel",
@@ -2997,14 +2456,7 @@
       "7a"
     ],
     "needs":[
-      "Écoute et compréhension",
-      "Coopération",
-      "Fonctionnement des organisations",
-      "Codes professionnels",
-      "Environnement socio-économique",
-      "Élaboration du projet",
-      "Sécurisation du parcours",
-      "Mobilisation des ressources"
+
     ]
   }
 ]
